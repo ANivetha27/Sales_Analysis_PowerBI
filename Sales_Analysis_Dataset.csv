@@ -1,0 +1,1201 @@
+﻿Order ID,Order Date,Customer ID,Customer Name,City,Product Name,Category,Segment,Sales,Profit,Quantity
+ORD-00001,2020-06-20,C058,Customer 058,Atlanta,Ergonomic Chair,Furniture,Consumer,401.79,92.98,3
+ORD-00002,2020-08-09,C009,Customer 009,Miami,Desk Organizer,Office Supplies,Consumer,89.79,11.66,3
+ORD-00003,2020-05-04,C041,Customer 041,Los Angeles,USB Gaming Keyboard,Technology,Corporate,282.51,55.28,4
+ORD-00004,2020-04-29,C042,Customer 042,Seattle,Bookcase,Furniture,Consumer,427.02,90.05,4
+ORD-00005,2020-10-18,C079,Customer 079,Miami,Lounge Sofa,Furniture,Consumer,3112.83,827.39,8
+ORD-00006,2020-02-08,C001,Customer 001,Atlanta,Wireless Mouse,Technology,Consumer,86.16,9.91,3
+ORD-00007,2020-03-10,C053,Customer 053,New York,Printer Paper,Office Supplies,Consumer,141.43,24.29,6
+ORD-00008,2020-10-18,C078,Customer 078,New York,Gel Pen Set,Office Supplies,Corporate,34.76,4.4,4
+ORD-00009,2020-07-01,C030,Customer 030,Phoenix,Stapler,Office Supplies,Consumer,63.42,13.17,6
+ORD-00010,2020-07-09,C067,Customer 067,San Francisco,Power Bank Shell 5V,Technology,Home Office,201.0,45.79,3
+ORD-00011,2020-12-12,C015,Customer 015,Los Angeles,Gel Pen Set,Office Supplies,Consumer,7.72,1.1,1
+ORD-00012,2020-06-19,C033,Customer 033,Boston,Folding Table,Furniture,Home Office,84.74,16.08,1
+ORD-00013,2020-12-10,C017,Customer 017,New York,Power Bank Shell 5V,Technology,Home Office,203.79,36.71,3
+ORD-00014,2020-02-18,C070,Customer 070,Phoenix,Bookcase,Furniture,Corporate,615.29,132.54,5
+ORD-00015,2020-11-09,C055,Customer 055,Denver,Office Desk,Furniture,Corporate,1104.94,222.95,5
+ORD-00016,2020-06-03,C043,Customer 043,Chicago,Office Desk,Furniture,Consumer,568.13,114.79,3
+ORD-00017,2020-05-09,C080,Customer 080,Seattle,Desk Organizer,Office Supplies,Corporate,174.22,14.53,6
+ORD-00018,2020-06-20,C031,Customer 031,Dallas,Stapler,Office Supplies,Consumer,78.73,15.66,5
+ORD-00019,2020-11-04,C065,Customer 065,Boston,Stapler,Office Supplies,Consumer,104.05,17.48,8
+ORD-00020,2020-08-14,C034,Customer 034,Los Angeles,Printer Paper,Office Supplies,Consumer,176.92,28.46,8
+ORD-00021,2020-08-02,C029,Customer 029,Chicago,HDMI Cable 2.0,Technology,Consumer,15.05,0.95,1
+ORD-00022,2020-06-25,C060,Customer 060,Miami,Folding Table,Furniture,Consumer,583.85,64.48,7
+ORD-00023,2020-01-12,C087,Customer 087,Chicago,Bookcase,Furniture,Corporate,464.9,47.99,5
+ORD-00024,2020-04-20,C003,Customer 003,Miami,HDMI Cable 2.0,Technology,Consumer,107.02,5.29,8
+ORD-00025,2020-11-07,C065,Customer 065,Seattle,Power Bank Shell 5V,Technology,Consumer,159.57,34.82,2
+ORD-00026,2020-09-29,C037,Customer 037,Boston,USB Gaming Keyboard,Technology,Corporate,182.92,24.99,3
+ORD-00027,2020-03-06,C082,Customer 082,Atlanta,Printer Paper,Office Supplies,Consumer,107.76,24.55,5
+ORD-00028,2020-11-11,C042,Customer 042,Dallas,USB Gaming Keyboard,Technology,Home Office,579.69,73.43,7
+ORD-00029,2020-04-06,C050,Customer 050,Phoenix,Office Desk,Furniture,Home Office,434.44,61.68,2
+ORD-00030,2020-12-04,C072,Customer 072,Boston,Gel Pen Set,Office Supplies,Consumer,16.95,3.35,2
+ORD-00031,2020-12-23,C052,Customer 052,New York,Printer Paper,Office Supplies,Home Office,21.06,0.33,1
+ORD-00032,2020-09-19,C059,Customer 059,Phoenix,Gel Pen Set,Office Supplies,Consumer,34.98,8.02,4
+ORD-00033,2020-12-29,C086,Customer 086,Los Angeles,Power Bank Shell 5V,Technology,Consumer,480.77,41.1,7
+ORD-00034,2020-01-03,C021,Customer 021,Dallas,Bookcase,Furniture,Corporate,259.02,27.0,2
+ORD-00035,2020-12-07,C032,Customer 032,Dallas,Power Bank Shell 5V,Technology,Consumer,71.73,18.08,1
+ORD-00036,2020-11-19,C027,Customer 027,Dallas,Wireless Mouse,Technology,Corporate,138.53,5.35,6
+ORD-00037,2020-12-31,C085,Customer 085,Los Angeles,Ergonomic Chair,Furniture,Consumer,753.02,141.28,5
+ORD-00038,2020-09-13,C084,Customer 084,Atlanta,Notebook Pack,Office Supplies,Home Office,52.77,5.57,4
+ORD-00039,2020-12-25,C067,Customer 067,Seattle,Bluetooth Speaker,Technology,Home Office,247.65,25.82,3
+ORD-00040,2020-03-23,C014,Customer 014,Boston,Gel Pen Set,Office Supplies,Corporate,54.76,5.91,6
+ORD-00041,2020-01-04,C031,Customer 031,New York,Wireless Mouse,Technology,Consumer,201.1,30.25,7
+ORD-00042,2020-06-27,C007,Customer 007,Dallas,Printer Paper,Office Supplies,Home Office,18.57,2.32,1
+ORD-00043,2020-07-11,C036,Customer 036,Atlanta,Ergonomic Chair,Furniture,Consumer,895.41,237.4,7
+ORD-00044,2020-03-02,C063,Customer 063,Dallas,Bluetooth Speaker,Technology,Corporate,494.9,80.07,5
+ORD-00045,2020-05-25,C080,Customer 080,Dallas,Desk Organizer,Office Supplies,Consumer,92.9,11.46,3
+ORD-00046,2020-02-16,C085,Customer 085,Denver,Bluetooth Speaker,Technology,Corporate,697.43,15.59,8
+ORD-00047,2020-03-14,C048,Customer 048,Miami,Stapler,Office Supplies,Consumer,57.57,2.61,5
+ORD-00048,2020-05-04,C045,Customer 045,Houston,Stapler,Office Supplies,Consumer,16.02,2.93,1
+ORD-00049,2020-10-11,C016,Customer 016,Denver,Gel Pen Set,Office Supplies,Consumer,23.94,1.77,3
+ORD-00050,2020-05-22,C042,Customer 042,Seattle,Bluetooth Speaker,Technology,Home Office,184.94,48.77,2
+ORD-00051,2020-05-11,C081,Customer 081,Chicago,Office Desk,Furniture,Consumer,367.48,15.3,2
+ORD-00052,2020-07-14,C017,Customer 017,Denver,Bookcase,Furniture,Consumer,418.27,119.07,4
+ORD-00053,2020-08-07,C034,Customer 034,Los Angeles,Power Bank Shell 5V,Technology,Home Office,179.08,33.13,3
+ORD-00054,2020-12-01,C064,Customer 064,New York,Gel Pen Set,Office Supplies,Consumer,41.49,6.93,5
+ORD-00055,2020-09-20,C029,Customer 029,Phoenix,HDMI Cable 2.0,Technology,Home Office,85.02,6.98,6
+ORD-00056,2020-12-17,C040,Customer 040,New York,Bluetooth Speaker,Technology,Corporate,277.28,37.8,4
+ORD-00057,2020-08-12,C041,Customer 041,Boston,Ergonomic Chair,Furniture,Consumer,1131.6,148.3,7
+ORD-00058,2020-01-08,C016,Customer 016,San Francisco,HDMI Cable 2.0,Technology,Consumer,151.01,14.86,8
+ORD-00059,2020-04-20,C071,Customer 071,Boston,Lounge Sofa,Furniture,Corporate,365.24,77.25,1
+ORD-00060,2020-12-29,C069,Customer 069,Denver,Printer Paper,Office Supplies,Corporate,55.95,3.4,3
+ORD-00061,2020-03-16,C009,Customer 009,Boston,HDMI Cable 2.0,Technology,Corporate,146.15,12.54,8
+ORD-00062,2020-01-13,C079,Customer 079,Boston,Lounge Sofa,Furniture,Consumer,395.93,94.83,1
+ORD-00063,2020-09-07,C038,Customer 038,Seattle,Office Desk,Furniture,Consumer,355.89,52.08,2
+ORD-00064,2020-11-14,C081,Customer 081,Houston,USB Gaming Keyboard,Technology,Home Office,214.74,44.49,3
+ORD-00065,2020-03-06,C036,Customer 036,San Francisco,Office Desk,Furniture,Consumer,222.15,64.54,1
+ORD-00066,2020-11-30,C001,Customer 001,Atlanta,Power Bank Shell 5V,Technology,Home Office,128.16,25.84,2
+ORD-00067,2020-05-08,C053,Customer 053,Atlanta,USB Gaming Keyboard,Technology,Home Office,132.82,36.08,2
+ORD-00068,2020-08-01,C028,Customer 028,Seattle,Gel Pen Set,Office Supplies,Corporate,8.09,0.65,1
+ORD-00069,2020-12-31,C045,Customer 045,Atlanta,Gel Pen Set,Office Supplies,Corporate,14.92,3.76,2
+ORD-00070,2020-01-23,C050,Customer 050,Denver,Printer Paper,Office Supplies,Consumer,20.86,4.04,1
+ORD-00071,2020-12-23,C086,Customer 086,Phoenix,Wireless Mouse,Technology,Consumer,84.53,12.74,4
+ORD-00072,2020-01-15,C014,Customer 014,Atlanta,Bluetooth Speaker,Technology,Corporate,541.61,32.25,7
+ORD-00073,2020-10-08,C077,Customer 077,Los Angeles,Gel Pen Set,Office Supplies,Consumer,6.73,0.89,1
+ORD-00074,2020-12-24,C038,Customer 038,Dallas,Notebook Pack,Office Supplies,Corporate,95.85,16.99,7
+ORD-00075,2020-03-22,C054,Customer 054,Denver,HDMI Cable 2.0,Technology,Consumer,49.37,11.44,3
+ORD-00076,2020-01-19,C075,Customer 075,Atlanta,HDMI Cable 2.0,Technology,Home Office,58.17,8.05,4
+ORD-00077,2020-08-19,C086,Customer 086,Houston,HDMI Cable 2.0,Technology,Consumer,131.52,17.2,7
+ORD-00078,2020-02-14,C050,Customer 050,Denver,Bookcase,Furniture,Consumer,708.89,82.16,6
+ORD-00079,2020-11-11,C012,Customer 012,Dallas,Desk Organizer,Office Supplies,Home Office,142.19,22.23,5
+ORD-00080,2020-04-08,C089,Customer 089,San Francisco,Bookcase,Furniture,Consumer,167.92,16.23,2
+ORD-00081,2020-07-04,C069,Customer 069,Seattle,Notebook Pack,Office Supplies,Consumer,50.19,6.25,5
+ORD-00082,2020-05-08,C020,Customer 020,Atlanta,Desk Organizer,Office Supplies,Home Office,220.68,56.77,6
+ORD-00083,2020-10-18,C041,Customer 041,Atlanta,Notebook Pack,Office Supplies,Home Office,67.95,16.65,6
+ORD-00084,2020-01-28,C055,Customer 055,San Francisco,Desk Organizer,Office Supplies,Consumer,208.42,51.78,6
+ORD-00085,2020-11-17,C053,Customer 053,Boston,Ergonomic Chair,Furniture,Corporate,975.08,188.17,8
+ORD-00086,2020-10-05,C041,Customer 041,New York,Folding Table,Furniture,Consumer,270.68,29.14,3
+ORD-00087,2020-05-23,C084,Customer 084,Seattle,Gel Pen Set,Office Supplies,Consumer,59.97,15.65,6
+ORD-00088,2020-01-07,C047,Customer 047,San Francisco,Desk Organizer,Office Supplies,Home Office,189.48,36.35,8
+ORD-00089,2020-07-14,C062,Customer 062,Denver,Printer Paper,Office Supplies,Home Office,109.39,-0.49,6
+ORD-00090,2020-03-05,C030,Customer 030,Boston,HDMI Cable 2.0,Technology,Consumer,54.16,9.93,3
+ORD-00091,2020-05-17,C033,Customer 033,Miami,Bookcase,Furniture,Corporate,578.75,79.83,6
+ORD-00092,2020-09-08,C046,Customer 046,Denver,Printer Paper,Office Supplies,Home Office,113.51,12.4,5
+ORD-00093,2020-10-11,C055,Customer 055,Chicago,Bookcase,Furniture,Corporate,392.44,86.26,4
+ORD-00094,2020-11-03,C084,Customer 084,Seattle,USB Gaming Keyboard,Technology,Consumer,439.43,126.97,6
+ORD-00095,2020-07-30,C036,Customer 036,San Francisco,Lounge Sofa,Furniture,Consumer,2269.37,169.32,6
+ORD-00096,2020-10-23,C042,Customer 042,Atlanta,Bluetooth Speaker,Technology,Consumer,82.11,13.01,1
+ORD-00097,2020-12-10,C059,Customer 059,Houston,Wireless Mouse,Technology,Corporate,28.05,5.32,1
+ORD-00098,2020-09-08,C023,Customer 023,New York,Desk Organizer,Office Supplies,Consumer,147.24,25.39,5
+ORD-00099,2020-09-03,C026,Customer 026,Houston,Notebook Pack,Office Supplies,Corporate,112.98,29.19,8
+ORD-00100,2020-04-22,C053,Customer 053,Boston,Office Desk,Furniture,Home Office,955.37,36.86,5
+ORD-00101,2020-11-08,C015,Customer 015,Miami,HDMI Cable 2.0,Technology,Home Office,100.03,9.87,6
+ORD-00102,2020-09-08,C033,Customer 033,Denver,USB Gaming Keyboard,Technology,Home Office,480.91,52.02,7
+ORD-00103,2020-12-09,C022,Customer 022,Chicago,Notebook Pack,Office Supplies,Corporate,37.44,8.97,4
+ORD-00104,2020-06-13,C018,Customer 018,Miami,Stapler,Office Supplies,Home Office,41.95,6.65,3
+ORD-00105,2020-11-06,C064,Customer 064,Chicago,Desk Organizer,Office Supplies,Home Office,99.12,25.23,3
+ORD-00106,2020-07-25,C033,Customer 033,Chicago,Lounge Sofa,Furniture,Home Office,1612.06,262.02,5
+ORD-00107,2020-10-17,C035,Customer 035,Los Angeles,Power Bank Shell 5V,Technology,Corporate,316.69,79.43,5
+ORD-00108,2020-12-01,C023,Customer 023,Dallas,Stapler,Office Supplies,Home Office,26.82,5.93,2
+ORD-00109,2020-12-31,C076,Customer 076,Miami,Printer Paper,Office Supplies,Corporate,45.23,5.04,2
+ORD-00110,2020-08-13,C080,Customer 080,Miami,Folding Table,Furniture,Consumer,567.96,42.93,8
+ORD-00111,2020-08-29,C032,Customer 032,Houston,Printer Paper,Office Supplies,Consumer,130.26,34.74,5
+ORD-00112,2020-12-18,C036,Customer 036,Denver,Bookcase,Furniture,Corporate,81.36,1.15,1
+ORD-00113,2020-01-24,C042,Customer 042,Houston,Stapler,Office Supplies,Consumer,12.33,2.85,1
+ORD-00114,2020-11-10,C022,Customer 022,Houston,Wireless Mouse,Technology,Consumer,23.46,1.98,1
+ORD-00115,2020-09-23,C080,Customer 080,San Francisco,Stapler,Office Supplies,Consumer,27.45,5.41,2
+ORD-00116,2020-10-22,C025,Customer 025,Los Angeles,Stapler,Office Supplies,Corporate,68.24,3.08,6
+ORD-00117,2020-08-10,C056,Customer 056,New York,Bluetooth Speaker,Technology,Corporate,301.11,44.65,4
+ORD-00118,2020-03-15,C024,Customer 024,Miami,Ergonomic Chair,Furniture,Consumer,522.43,117.37,4
+ORD-00119,2020-05-13,C039,Customer 039,Houston,Office Desk,Furniture,Consumer,1506.89,202.07,7
+ORD-00120,2020-04-25,C081,Customer 081,Denver,USB Gaming Keyboard,Technology,Corporate,400.57,56.55,6
+ORD-00121,2020-05-28,C086,Customer 086,Phoenix,Printer Paper,Office Supplies,Home Office,186.6,53.63,8
+ORD-00122,2020-07-26,C032,Customer 032,Phoenix,Notebook Pack,Office Supplies,Consumer,85.76,21.78,8
+ORD-00123,2020-11-10,C015,Customer 015,Atlanta,Folding Table,Furniture,Home Office,226.57,21.1,3
+ORD-00124,2020-12-06,C005,Customer 005,Boston,Wireless Mouse,Technology,Consumer,150.48,23.43,5
+ORD-00125,2020-03-27,C064,Customer 064,Denver,Stapler,Office Supplies,Corporate,51.76,12.32,3
+ORD-00126,2020-03-12,C060,Customer 060,New York,Printer Paper,Office Supplies,Consumer,61.21,8.66,3
+ORD-00127,2020-02-28,C032,Customer 032,Boston,Ergonomic Chair,Furniture,Consumer,1182.12,213.85,7
+ORD-00128,2020-12-02,C063,Customer 063,Chicago,Notebook Pack,Office Supplies,Consumer,37.99,9.43,4
+ORD-00129,2020-01-15,C041,Customer 041,Miami,Bluetooth Speaker,Technology,Consumer,526.46,78.51,8
+ORD-00130,2020-07-04,C034,Customer 034,New York,Wireless Mouse,Technology,Corporate,91.23,17.56,4
+ORD-00131,2020-04-25,C088,Customer 088,Los Angeles,Printer Paper,Office Supplies,Corporate,123.02,28.76,6
+ORD-00132,2020-05-17,C002,Customer 002,San Francisco,Folding Table,Furniture,Corporate,283.97,81.46,3
+ORD-00133,2020-10-18,C084,Customer 084,Seattle,Gel Pen Set,Office Supplies,Consumer,68.87,14.76,7
+ORD-00134,2020-02-21,C033,Customer 033,Boston,Lounge Sofa,Furniture,Corporate,1739.65,407.94,4
+ORD-00135,2020-02-26,C087,Customer 087,Phoenix,Ergonomic Chair,Furniture,Consumer,976.17,232.61,6
+ORD-00136,2020-01-06,C020,Customer 020,Atlanta,HDMI Cable 2.0,Technology,Home Office,66.5,2.5,4
+ORD-00137,2020-03-24,C076,Customer 076,Houston,Notebook Pack,Office Supplies,Consumer,12.36,1.55,1
+ORD-00138,2020-03-27,C068,Customer 068,Denver,USB Gaming Keyboard,Technology,Home Office,380.21,17.91,6
+ORD-00139,2020-02-24,C012,Customer 012,New York,Bluetooth Speaker,Technology,Corporate,709.69,201.94,7
+ORD-00140,2020-11-04,C018,Customer 018,San Francisco,Wireless Mouse,Technology,Home Office,202.09,10.52,8
+ORD-00141,2020-11-22,C032,Customer 032,Boston,Folding Table,Furniture,Corporate,168.54,22.79,2
+ORD-00142,2020-09-06,C011,Customer 011,Miami,Folding Table,Furniture,Corporate,325.26,54.07,4
+ORD-00143,2020-01-27,C033,Customer 033,Dallas,Bluetooth Speaker,Technology,Consumer,376.79,14.23,5
+ORD-00144,2020-10-01,C074,Customer 074,Chicago,Bluetooth Speaker,Technology,Consumer,239.66,14.26,3
+ORD-00145,2020-07-19,C039,Customer 039,Atlanta,Wireless Mouse,Technology,Consumer,121.59,25.82,5
+ORD-00146,2020-03-16,C007,Customer 007,Houston,Office Desk,Furniture,Consumer,1698.38,238.23,7
+ORD-00147,2020-01-31,C074,Customer 074,New York,Gel Pen Set,Office Supplies,Consumer,60.51,12.0,6
+ORD-00148,2020-06-15,C085,Customer 085,Denver,USB Gaming Keyboard,Technology,Consumer,529.45,46.31,7
+ORD-00149,2020-06-30,C080,Customer 080,New York,USB Gaming Keyboard,Technology,Consumer,509.2,56.26,7
+ORD-00150,2020-07-15,C082,Customer 082,Chicago,Notebook Pack,Office Supplies,Consumer,77.46,21.91,6
+ORD-00151,2020-12-04,C045,Customer 045,New York,Bookcase,Furniture,Corporate,558.38,137.66,5
+ORD-00152,2020-09-26,C056,Customer 056,Boston,Bluetooth Speaker,Technology,Consumer,588.04,109.65,8
+ORD-00153,2020-11-18,C080,Customer 080,Los Angeles,Bookcase,Furniture,Consumer,265.94,50.21,3
+ORD-00154,2020-05-12,C053,Customer 053,San Francisco,Printer Paper,Office Supplies,Corporate,129.51,24.45,6
+ORD-00155,2020-08-03,C020,Customer 020,Atlanta,Lounge Sofa,Furniture,Consumer,2225.77,277.84,7
+ORD-00156,2020-08-04,C032,Customer 032,Los Angeles,Ergonomic Chair,Furniture,Corporate,319.49,84.26,2
+ORD-00157,2020-11-06,C058,Customer 058,Houston,Printer Paper,Office Supplies,Corporate,63.42,5.17,3
+ORD-00158,2020-02-22,C050,Customer 050,Boston,Folding Table,Furniture,Corporate,205.29,25.42,3
+ORD-00159,2020-10-02,C089,Customer 089,Phoenix,Stapler,Office Supplies,Corporate,63.84,10.32,4
+ORD-00160,2020-06-19,C056,Customer 056,Los Angeles,Office Desk,Furniture,Consumer,464.84,57.35,2
+ORD-00161,2020-12-20,C042,Customer 042,San Francisco,Gel Pen Set,Office Supplies,Corporate,48.12,11.08,5
+ORD-00162,2020-12-01,C075,Customer 075,New York,Notebook Pack,Office Supplies,Consumer,67.12,7.52,6
+ORD-00163,2020-04-15,C009,Customer 009,Boston,Ergonomic Chair,Furniture,Corporate,944.07,122.7,6
+ORD-00164,2020-05-14,C022,Customer 022,Miami,Desk Organizer,Office Supplies,Consumer,149.02,9.61,5
+ORD-00165,2020-03-03,C086,Customer 086,Boston,Stapler,Office Supplies,Consumer,63.02,6.85,4
+ORD-00166,2020-02-26,C013,Customer 013,Seattle,Printer Paper,Office Supplies,Home Office,112.64,23.42,5
+ORD-00167,2020-02-10,C044,Customer 044,Seattle,Bluetooth Speaker,Technology,Home Office,82.96,13.13,1
+ORD-00168,2020-11-24,C032,Customer 032,Boston,Notebook Pack,Office Supplies,Corporate,24.21,2.75,2
+ORD-00169,2020-04-10,C062,Customer 062,San Francisco,Wireless Mouse,Technology,Consumer,110.61,17.49,4
+ORD-00170,2020-06-06,C031,Customer 031,Phoenix,Bluetooth Speaker,Technology,Home Office,300.84,32.91,3
+ORD-00171,2020-04-18,C020,Customer 020,New York,Power Bank Shell 5V,Technology,Corporate,158.78,38.65,3
+ORD-00172,2020-04-11,C056,Customer 056,Atlanta,Stapler,Office Supplies,Consumer,95.6,8.79,7
+ORD-00173,2020-06-09,C026,Customer 026,Phoenix,Printer Paper,Office Supplies,Corporate,119.38,21.13,6
+ORD-00174,2020-12-04,C073,Customer 073,Dallas,HDMI Cable 2.0,Technology,Home Office,130.83,25.23,8
+ORD-00175,2020-02-18,C033,Customer 033,New York,Wireless Mouse,Technology,Corporate,61.55,15.26,2
+ORD-00176,2020-07-13,C007,Customer 007,Atlanta,Desk Organizer,Office Supplies,Home Office,216.74,59.16,6
+ORD-00177,2020-03-08,C082,Customer 082,New York,Stapler,Office Supplies,Home Office,91.53,10.21,7
+ORD-00178,2020-07-16,C008,Customer 008,Denver,Notebook Pack,Office Supplies,Consumer,35.3,7.73,3
+ORD-00179,2020-07-04,C046,Customer 046,Atlanta,Stapler,Office Supplies,Consumer,64.11,8.93,5
+ORD-00180,2020-08-04,C020,Customer 020,Chicago,Notebook Pack,Office Supplies,Consumer,69.87,6.26,6
+ORD-00181,2020-05-27,C024,Customer 024,New York,Ergonomic Chair,Furniture,Consumer,268.57,67.79,2
+ORD-00182,2020-09-27,C032,Customer 032,Dallas,HDMI Cable 2.0,Technology,Corporate,123.2,6.03,7
+ORD-00183,2020-02-12,C017,Customer 017,Los Angeles,Power Bank Shell 5V,Technology,Consumer,518.99,139.43,7
+ORD-00184,2020-09-23,C032,Customer 032,Houston,Stapler,Office Supplies,Consumer,45.39,8.87,3
+ORD-00185,2020-11-29,C065,Customer 065,New York,Desk Organizer,Office Supplies,Corporate,86.79,21.82,3
+ORD-00186,2020-01-21,C015,Customer 015,Houston,HDMI Cable 2.0,Technology,Home Office,86.33,3.81,6
+ORD-00187,2020-09-10,C020,Customer 020,Chicago,HDMI Cable 2.0,Technology,Corporate,79.51,12.75,5
+ORD-00188,2020-02-26,C088,Customer 088,Seattle,Lounge Sofa,Furniture,Consumer,1357.51,192.5,4
+ORD-00189,2020-01-20,C078,Customer 078,New York,Ergonomic Chair,Furniture,Consumer,654.3,50.32,5
+ORD-00190,2020-02-02,C071,Customer 071,Dallas,Wireless Mouse,Technology,Consumer,23.14,4.93,1
+ORD-00191,2020-12-14,C061,Customer 061,New York,Power Bank Shell 5V,Technology,Corporate,458.09,8.82,7
+ORD-00192,2020-12-26,C083,Customer 083,Seattle,Lounge Sofa,Furniture,Consumer,329.33,23.85,1
+ORD-00193,2020-02-02,C010,Customer 010,Los Angeles,Bookcase,Furniture,Corporate,454.29,79.72,4
+ORD-00194,2020-10-26,C021,Customer 021,Chicago,Bluetooth Speaker,Technology,Consumer,511.79,66.52,6
+ORD-00195,2020-11-02,C034,Customer 034,Miami,Wireless Mouse,Technology,Corporate,55.62,11.26,2
+ORD-00196,2020-10-05,C042,Customer 042,San Francisco,Notebook Pack,Office Supplies,Consumer,74.27,7.95,7
+ORD-00197,2020-03-20,C036,Customer 036,Los Angeles,Gel Pen Set,Office Supplies,Home Office,58.48,8.02,8
+ORD-00198,2020-05-31,C025,Customer 025,Houston,Bluetooth Speaker,Technology,Consumer,94.91,25.32,1
+ORD-00199,2020-12-16,C008,Customer 008,Houston,Office Desk,Furniture,Home Office,1083.62,247.35,5
+ORD-00200,2020-07-07,C028,Customer 028,Phoenix,Wireless Mouse,Technology,Corporate,28.32,4.68,1
+ORD-00201,2020-06-19,C053,Customer 053,Boston,Folding Table,Furniture,Consumer,405.57,10.98,5
+ORD-00202,2020-03-16,C006,Customer 006,Seattle,Stapler,Office Supplies,Consumer,10.52,1.89,1
+ORD-00203,2020-05-08,C027,Customer 027,Seattle,Office Desk,Furniture,Home Office,364.75,24.91,2
+ORD-00204,2020-11-17,C068,Customer 068,Dallas,Power Bank Shell 5V,Technology,Home Office,486.05,99.13,7
+ORD-00205,2020-09-29,C080,Customer 080,Atlanta,Notebook Pack,Office Supplies,Consumer,9.94,0.96,1
+ORD-00206,2020-01-04,C010,Customer 010,Atlanta,Gel Pen Set,Office Supplies,Consumer,8.14,0.88,1
+ORD-00207,2020-12-05,C075,Customer 075,San Francisco,Printer Paper,Office Supplies,Consumer,174.33,24.39,8
+ORD-00208,2020-01-12,C033,Customer 033,Miami,HDMI Cable 2.0,Technology,Consumer,62.41,8.42,4
+ORD-00209,2020-02-01,C058,Customer 058,New York,Ergonomic Chair,Furniture,Consumer,1098.15,240.62,7
+ORD-00210,2020-06-06,C054,Customer 054,Seattle,HDMI Cable 2.0,Technology,Corporate,15.82,0.57,1
+ORD-00211,2020-01-11,C054,Customer 054,Miami,Gel Pen Set,Office Supplies,Corporate,17.21,3.91,2
+ORD-00212,2020-08-23,C066,Customer 066,Houston,USB Gaming Keyboard,Technology,Home Office,477.54,52.43,8
+ORD-00213,2020-03-11,C040,Customer 040,Atlanta,Printer Paper,Office Supplies,Consumer,133.94,21.32,6
+ORD-00214,2020-12-31,C024,Customer 024,San Francisco,Stapler,Office Supplies,Consumer,66.47,8.35,4
+ORD-00215,2020-11-16,C037,Customer 037,Phoenix,USB Gaming Keyboard,Technology,Consumer,353.4,86.23,6
+ORD-00216,2020-06-22,C075,Customer 075,Dallas,USB Gaming Keyboard,Technology,Corporate,563.79,138.54,7
+ORD-00217,2020-01-22,C089,Customer 089,Boston,Desk Organizer,Office Supplies,Corporate,97.91,12.36,4
+ORD-00218,2020-02-24,C002,Customer 002,Chicago,Power Bank Shell 5V,Technology,Consumer,517.88,72.02,8
+ORD-00219,2020-07-11,C071,Customer 071,San Francisco,Desk Organizer,Office Supplies,Corporate,150.78,16.34,6
+ORD-00220,2020-07-06,C010,Customer 010,Seattle,Ergonomic Chair,Furniture,Home Office,152.57,29.58,1
+ORD-00221,2020-09-11,C089,Customer 089,Los Angeles,Lounge Sofa,Furniture,Home Office,3678.59,532.58,8
+ORD-00222,2020-03-30,C023,Customer 023,New York,Notebook Pack,Office Supplies,Consumer,21.0,2.78,2
+ORD-00223,2020-03-19,C043,Customer 043,Seattle,Stapler,Office Supplies,Home Office,68.79,4.12,5
+ORD-00224,2020-04-05,C082,Customer 082,Chicago,Folding Table,Furniture,Consumer,583.79,120.52,7
+ORD-00225,2020-12-18,C040,Customer 040,Houston,USB Gaming Keyboard,Technology,Corporate,423.06,83.72,6
+ORD-00226,2020-12-26,C055,Customer 055,Chicago,Lounge Sofa,Furniture,Corporate,711.16,70.39,2
+ORD-00227,2020-07-14,C084,Customer 084,Dallas,Stapler,Office Supplies,Consumer,46.49,3.48,4
+ORD-00228,2020-07-24,C032,Customer 032,Denver,Bookcase,Furniture,Home Office,746.65,68.14,8
+ORD-00229,2020-07-11,C038,Customer 038,Houston,Ergonomic Chair,Furniture,Consumer,577.04,147.07,5
+ORD-00230,2020-07-04,C032,Customer 032,Seattle,Lounge Sofa,Furniture,Consumer,399.89,81.62,1
+ORD-00231,2020-01-17,C046,Customer 046,Boston,Printer Paper,Office Supplies,Consumer,21.11,1.36,1
+ORD-00232,2020-07-18,C034,Customer 034,Los Angeles,HDMI Cable 2.0,Technology,Consumer,72.62,11.02,4
+ORD-00233,2020-09-10,C068,Customer 068,Los Angeles,HDMI Cable 2.0,Technology,Corporate,100.48,25.72,5
+ORD-00234,2020-02-27,C036,Customer 036,San Francisco,USB Gaming Keyboard,Technology,Consumer,52.78,4.24,1
+ORD-00235,2020-06-19,C073,Customer 073,Phoenix,Desk Organizer,Office Supplies,Home Office,110.51,11.39,4
+ORD-00236,2020-08-06,C046,Customer 046,Chicago,Lounge Sofa,Furniture,Home Office,1308.08,105.56,3
+ORD-00237,2020-03-19,C016,Customer 016,Atlanta,Gel Pen Set,Office Supplies,Home Office,50.74,4.03,7
+ORD-00238,2020-01-13,C060,Customer 060,Chicago,Stapler,Office Supplies,Consumer,27.12,5.04,2
+ORD-00239,2020-09-22,C051,Customer 051,Denver,USB Gaming Keyboard,Technology,Consumer,441.32,94.32,6
+ORD-00240,2020-11-21,C052,Customer 052,Houston,Wireless Mouse,Technology,Home Office,211.09,30.2,8
+ORD-00241,2020-12-25,C013,Customer 013,Dallas,USB Gaming Keyboard,Technology,Consumer,165.36,25.8,2
+ORD-00242,2020-05-26,C067,Customer 067,Atlanta,Bookcase,Furniture,Consumer,229.68,57.85,2
+ORD-00243,2020-12-31,C022,Customer 022,Los Angeles,USB Gaming Keyboard,Technology,Consumer,278.39,58.35,4
+ORD-00244,2020-01-08,C061,Customer 061,Phoenix,Gel Pen Set,Office Supplies,Consumer,8.46,0.95,1
+ORD-00245,2020-06-28,C067,Customer 067,Seattle,Stapler,Office Supplies,Consumer,13.67,2.54,1
+ORD-00246,2020-01-20,C088,Customer 088,New York,Printer Paper,Office Supplies,Corporate,67.05,13.04,3
+ORD-00247,2020-01-11,C033,Customer 033,Los Angeles,USB Gaming Keyboard,Technology,Corporate,146.08,29.33,2
+ORD-00248,2020-08-14,C012,Customer 012,Phoenix,Notebook Pack,Office Supplies,Consumer,11.44,2.43,1
+ORD-00249,2020-06-22,C044,Customer 044,San Francisco,Folding Table,Furniture,Consumer,297.0,50.81,5
+ORD-00250,2020-09-04,C025,Customer 025,Miami,Desk Organizer,Office Supplies,Consumer,191.92,6.25,6
+ORD-00251,2020-11-27,C023,Customer 023,Phoenix,Ergonomic Chair,Furniture,Corporate,1055.3,139.35,8
+ORD-00252,2020-07-23,C072,Customer 072,New York,Notebook Pack,Office Supplies,Corporate,23.25,2.08,2
+ORD-00253,2020-10-13,C012,Customer 012,New York,Bluetooth Speaker,Technology,Consumer,157.82,31.75,2
+ORD-00254,2020-09-03,C041,Customer 041,Los Angeles,Power Bank Shell 5V,Technology,Corporate,523.35,128.37,8
+ORD-00255,2020-08-02,C035,Customer 035,Houston,Bluetooth Speaker,Technology,Corporate,379.36,62.42,4
+ORD-00256,2020-10-29,C082,Customer 082,Houston,Power Bank Shell 5V,Technology,Consumer,155.52,13.35,2
+ORD-00257,2020-01-31,C052,Customer 052,Denver,Power Bank Shell 5V,Technology,Consumer,225.11,32.24,4
+ORD-00258,2020-12-10,C030,Customer 030,Boston,Stapler,Office Supplies,Consumer,37.01,6.95,3
+ORD-00259,2020-06-21,C030,Customer 030,Phoenix,Notebook Pack,Office Supplies,Consumer,23.98,3.19,2
+ORD-00260,2020-04-28,C083,Customer 083,Dallas,Power Bank Shell 5V,Technology,Corporate,220.4,24.49,3
+ORD-00261,2020-11-07,C082,Customer 082,San Francisco,Bookcase,Furniture,Corporate,755.19,80.36,7
+ORD-00262,2020-12-19,C002,Customer 002,Houston,Office Desk,Furniture,Consumer,1622.96,84.53,7
+ORD-00263,2020-04-20,C023,Customer 023,Miami,Stapler,Office Supplies,Consumer,81.22,15.14,7
+ORD-00264,2020-11-10,C012,Customer 012,Atlanta,Wireless Mouse,Technology,Consumer,205.84,37.48,8
+ORD-00265,2020-05-20,C020,Customer 020,Miami,Power Bank Shell 5V,Technology,Consumer,126.23,7.35,2
+ORD-00266,2020-10-14,C020,Customer 020,Seattle,Lounge Sofa,Furniture,Consumer,420.15,84.83,1
+ORD-00267,2020-05-09,C058,Customer 058,San Francisco,Bluetooth Speaker,Technology,Consumer,520.27,80.74,7
+ORD-00268,2020-09-06,C082,Customer 082,Seattle,Bluetooth Speaker,Technology,Corporate,832.46,191.44,8
+ORD-00269,2020-02-29,C069,Customer 069,Chicago,Ergonomic Chair,Furniture,Corporate,782.47,70.78,6
+ORD-00270,2020-08-21,C045,Customer 045,Los Angeles,HDMI Cable 2.0,Technology,Corporate,144.86,35.29,7
+ORD-00271,2020-11-02,C004,Customer 004,Dallas,Office Desk,Furniture,Corporate,1676.37,410.3,7
+ORD-00272,2020-06-15,C045,Customer 045,Chicago,HDMI Cable 2.0,Technology,Corporate,33.17,6.82,2
+ORD-00273,2020-05-13,C021,Customer 021,Phoenix,Wireless Mouse,Technology,Corporate,87.15,12.72,4
+ORD-00274,2020-08-19,C015,Customer 015,Seattle,USB Gaming Keyboard,Technology,Consumer,419.79,77.88,7
+ORD-00275,2020-01-07,C068,Customer 068,Denver,Folding Table,Furniture,Home Office,487.21,72.35,7
+ORD-00276,2020-07-28,C039,Customer 039,Chicago,Notebook Pack,Office Supplies,Consumer,63.05,8.78,7
+ORD-00277,2020-01-28,C001,Customer 001,Dallas,Bookcase,Furniture,Consumer,84.18,12.33,1
+ORD-00278,2020-10-15,C027,Customer 027,New York,Wireless Mouse,Technology,Corporate,110.03,12.38,4
+ORD-00279,2020-09-27,C048,Customer 048,Chicago,Desk Organizer,Office Supplies,Corporate,181.2,44.0,7
+ORD-00280,2020-05-28,C037,Customer 037,Boston,Stapler,Office Supplies,Consumer,16.74,1.6,1
+ORD-00281,2020-01-03,C050,Customer 050,Atlanta,Stapler,Office Supplies,Consumer,51.42,10.6,3
+ORD-00282,2020-06-18,C012,Customer 012,Los Angeles,USB Gaming Keyboard,Technology,Home Office,504.93,106.41,7
+ORD-00283,2020-05-13,C005,Customer 005,Chicago,Desk Organizer,Office Supplies,Home Office,172.29,9.2,7
+ORD-00284,2020-11-19,C083,Customer 083,New York,HDMI Cable 2.0,Technology,Consumer,81.92,19.61,4
+ORD-00285,2020-08-20,C089,Customer 089,Chicago,Bluetooth Speaker,Technology,Consumer,644.66,66.82,8
+ORD-00286,2020-01-06,C065,Customer 065,Denver,Printer Paper,Office Supplies,Home Office,45.87,11.06,2
+ORD-00287,2020-12-28,C010,Customer 010,Denver,Power Bank Shell 5V,Technology,Consumer,511.43,93.64,7
+ORD-00288,2020-12-21,C009,Customer 009,Phoenix,Notebook Pack,Office Supplies,Home Office,42.22,7.98,5
+ORD-00289,2020-07-19,C022,Customer 022,Chicago,Gel Pen Set,Office Supplies,Consumer,28.98,6.38,4
+ORD-00290,2020-04-25,C013,Customer 013,Atlanta,Ergonomic Chair,Furniture,Consumer,217.02,14.26,2
+ORD-00291,2020-11-29,C067,Customer 067,Miami,Stapler,Office Supplies,Consumer,57.09,11.56,4
+ORD-00292,2020-05-04,C082,Customer 082,Houston,Office Desk,Furniture,Corporate,614.7,147.63,3
+ORD-00293,2020-12-19,C086,Customer 086,San Francisco,Gel Pen Set,Office Supplies,Corporate,34.38,8.32,4
+ORD-00294,2020-03-31,C041,Customer 041,New York,Power Bank Shell 5V,Technology,Corporate,419.4,52.08,8
+ORD-00295,2020-05-13,C052,Customer 052,Houston,Stapler,Office Supplies,Consumer,36.29,7.06,3
+ORD-00296,2020-02-25,C089,Customer 089,Seattle,Ergonomic Chair,Furniture,Consumer,109.89,20.35,1
+ORD-00297,2020-12-01,C008,Customer 008,San Francisco,Ergonomic Chair,Furniture,Consumer,138.9,39.45,1
+ORD-00298,2020-08-09,C007,Customer 007,San Francisco,Desk Organizer,Office Supplies,Consumer,66.64,8.91,2
+ORD-00299,2020-01-14,C008,Customer 008,Phoenix,Office Desk,Furniture,Consumer,621.37,123.41,4
+ORD-00300,2020-08-15,C080,Customer 080,Chicago,Bluetooth Speaker,Technology,Corporate,654.44,114.17,8
+ORD-00301,2020-09-27,C029,Customer 029,San Francisco,Notebook Pack,Office Supplies,Consumer,59.95,10.34,5
+ORD-00302,2020-09-17,C043,Customer 043,Dallas,Ergonomic Chair,Furniture,Consumer,130.13,31.77,1
+ORD-00303,2020-05-04,C081,Customer 081,San Francisco,Desk Organizer,Office Supplies,Consumer,243.25,40.55,8
+ORD-00304,2020-03-05,C087,Customer 087,Dallas,Lounge Sofa,Furniture,Home Office,3072.71,813.27,8
+ORD-00305,2020-10-31,C037,Customer 037,San Francisco,Office Desk,Furniture,Consumer,587.62,126.92,3
+ORD-00306,2020-07-14,C022,Customer 022,Chicago,USB Gaming Keyboard,Technology,Consumer,564.86,112.26,8
+ORD-00307,2020-09-29,C076,Customer 076,Seattle,Printer Paper,Office Supplies,Corporate,54.37,6.52,2
+ORD-00308,2020-03-19,C043,Customer 043,Houston,Bluetooth Speaker,Technology,Consumer,313.6,25.24,4
+ORD-00309,2020-07-26,C049,Customer 049,Atlanta,Wireless Mouse,Technology,Corporate,22.64,4.74,1
+ORD-00310,2020-05-20,C044,Customer 044,New York,Bookcase,Furniture,Consumer,832.41,90.43,7
+ORD-00311,2020-12-13,C008,Customer 008,Los Angeles,Printer Paper,Office Supplies,Home Office,41.64,10.56,2
+ORD-00312,2020-02-27,C017,Customer 017,Seattle,USB Gaming Keyboard,Technology,Consumer,567.37,21.72,8
+ORD-00313,2020-01-17,C056,Customer 056,Seattle,Lounge Sofa,Furniture,Consumer,1980.39,161.8,6
+ORD-00314,2020-01-07,C083,Customer 083,Miami,Stapler,Office Supplies,Corporate,14.01,2.64,1
+ORD-00315,2020-09-15,C082,Customer 082,San Francisco,USB Gaming Keyboard,Technology,Corporate,297.24,11.56,4
+ORD-00316,2020-08-14,C040,Customer 040,Denver,USB Gaming Keyboard,Technology,Consumer,173.63,16.35,2
+ORD-00317,2020-03-07,C034,Customer 034,Los Angeles,Notebook Pack,Office Supplies,Corporate,11.55,0.87,1
+ORD-00318,2020-03-22,C038,Customer 038,Miami,Gel Pen Set,Office Supplies,Consumer,52.91,7.62,6
+ORD-00319,2020-06-03,C023,Customer 023,Los Angeles,USB Gaming Keyboard,Technology,Home Office,524.16,125.48,7
+ORD-00320,2020-09-08,C076,Customer 076,Dallas,Bookcase,Furniture,Consumer,594.55,115.01,6
+ORD-00321,2020-03-15,C086,Customer 086,Boston,Gel Pen Set,Office Supplies,Home Office,60.39,9.61,7
+ORD-00322,2020-11-06,C085,Customer 085,Chicago,HDMI Cable 2.0,Technology,Home Office,64.0,9.62,4
+ORD-00323,2020-05-30,C040,Customer 040,Los Angeles,HDMI Cable 2.0,Technology,Consumer,90.46,17.53,5
+ORD-00324,2020-07-02,C062,Customer 062,New York,Power Bank Shell 5V,Technology,Home Office,132.34,26.21,2
+ORD-00325,2020-02-08,C016,Customer 016,Seattle,Folding Table,Furniture,Consumer,160.18,28.08,2
+ORD-00326,2020-08-09,C048,Customer 048,Seattle,Lounge Sofa,Furniture,Consumer,963.69,197.75,3
+ORD-00327,2020-03-03,C061,Customer 061,Boston,Notebook Pack,Office Supplies,Consumer,24.55,6.1,2
+ORD-00328,2020-04-01,C033,Customer 033,Houston,Printer Paper,Office Supplies,Consumer,81.5,11.32,3
+ORD-00329,2020-08-11,C003,Customer 003,New York,Bluetooth Speaker,Technology,Consumer,103.99,14.6,1
+ORD-00330,2020-02-16,C080,Customer 080,Dallas,Bookcase,Furniture,Home Office,558.67,64.79,6
+ORD-00331,2020-08-08,C032,Customer 032,Chicago,Wireless Mouse,Technology,Consumer,147.19,26.13,5
+ORD-00332,2020-03-31,C048,Customer 048,New York,Notebook Pack,Office Supplies,Consumer,33.3,3.32,3
+ORD-00333,2020-05-22,C016,Customer 016,New York,Wireless Mouse,Technology,Home Office,62.61,15.53,2
+ORD-00334,2020-10-25,C024,Customer 024,Chicago,Gel Pen Set,Office Supplies,Corporate,51.62,6.38,6
+ORD-00335,2020-05-26,C063,Customer 063,Chicago,Gel Pen Set,Office Supplies,Corporate,50.73,3.02,7
+ORD-00336,2020-05-08,C014,Customer 014,Seattle,Desk Organizer,Office Supplies,Corporate,32.17,9.51,1
+ORD-00337,2020-02-29,C039,Customer 039,Dallas,Office Desk,Furniture,Consumer,732.31,62.98,4
+ORD-00338,2020-06-01,C086,Customer 086,Seattle,Folding Table,Furniture,Corporate,154.57,34.31,2
+ORD-00339,2020-11-07,C031,Customer 031,New York,Notebook Pack,Office Supplies,Consumer,20.84,3.89,2
+ORD-00340,2020-12-07,C017,Customer 017,Denver,USB Gaming Keyboard,Technology,Consumer,493.32,82.61,6
+ORD-00341,2020-04-05,C049,Customer 049,Miami,Printer Paper,Office Supplies,Home Office,81.77,4.32,4
+ORD-00342,2020-03-15,C063,Customer 063,Denver,Power Bank Shell 5V,Technology,Consumer,375.65,86.62,5
+ORD-00343,2020-02-02,C044,Customer 044,Chicago,Stapler,Office Supplies,Consumer,39.12,7.41,3
+ORD-00344,2020-08-07,C054,Customer 054,Los Angeles,Bookcase,Furniture,Corporate,512.45,115.98,5
+ORD-00345,2020-07-24,C004,Customer 004,New York,Bluetooth Speaker,Technology,Home Office,491.02,60.8,5
+ORD-00346,2020-07-24,C056,Customer 056,Chicago,Notebook Pack,Office Supplies,Corporate,20.8,5.45,2
+ORD-00347,2020-07-13,C035,Customer 035,Boston,Bluetooth Speaker,Technology,Consumer,684.96,113.06,8
+ORD-00348,2020-11-28,C055,Customer 055,Seattle,USB Gaming Keyboard,Technology,Consumer,443.49,80.04,6
+ORD-00349,2020-12-18,C016,Customer 016,Miami,Gel Pen Set,Office Supplies,Consumer,15.58,1.62,2
+ORD-00350,2020-02-14,C051,Customer 051,Seattle,Gel Pen Set,Office Supplies,Consumer,52.32,9.12,6
+ORD-00351,2020-05-07,C038,Customer 038,Boston,Desk Organizer,Office Supplies,Consumer,110.63,22.05,4
+ORD-00352,2020-03-29,C040,Customer 040,Seattle,Desk Organizer,Office Supplies,Home Office,80.15,4.51,3
+ORD-00353,2020-07-18,C055,Customer 055,Phoenix,HDMI Cable 2.0,Technology,Consumer,110.84,12.44,8
+ORD-00354,2020-04-04,C075,Customer 075,Seattle,Notebook Pack,Office Supplies,Consumer,75.48,16.01,6
+ORD-00355,2020-08-29,C041,Customer 041,New York,Printer Paper,Office Supplies,Consumer,124.82,21.85,5
+ORD-00356,2020-05-27,C023,Customer 023,Phoenix,Office Desk,Furniture,Consumer,1042.94,301.31,5
+ORD-00357,2020-07-06,C058,Customer 058,San Francisco,Bookcase,Furniture,Consumer,650.98,173.57,6
+ORD-00358,2020-10-28,C077,Customer 077,Dallas,Gel Pen Set,Office Supplies,Corporate,65.67,5.51,8
+ORD-00359,2020-10-15,C090,Customer 090,Denver,USB Gaming Keyboard,Technology,Consumer,635.88,62.18,8
+ORD-00360,2020-04-05,C085,Customer 085,Seattle,HDMI Cable 2.0,Technology,Consumer,121.66,20.92,7
+ORD-00361,2020-01-17,C018,Customer 018,Houston,Bluetooth Speaker,Technology,Consumer,484.54,79.06,5
+ORD-00362,2020-02-04,C059,Customer 059,Chicago,Lounge Sofa,Furniture,Corporate,1687.47,452.37,5
+ORD-00363,2020-01-01,C090,Customer 090,Denver,Power Bank Shell 5V,Technology,Home Office,115.75,24.52,2
+ORD-00364,2020-05-13,C077,Customer 077,Chicago,Bookcase,Furniture,Consumer,439.76,48.49,4
+ORD-00365,2020-10-27,C015,Customer 015,Miami,Lounge Sofa,Furniture,Consumer,864.27,37.02,3
+ORD-00366,2020-11-28,C016,Customer 016,Phoenix,Notebook Pack,Office Supplies,Consumer,50.76,7.75,5
+ORD-00367,2020-07-11,C063,Customer 063,Seattle,Folding Table,Furniture,Corporate,89.9,24.49,1
+ORD-00368,2020-10-12,C054,Customer 054,Chicago,Lounge Sofa,Furniture,Consumer,1045.45,83.6,3
+ORD-00369,2020-08-26,C076,Customer 076,Houston,Wireless Mouse,Technology,Consumer,68.41,17.95,3
+ORD-00370,2020-04-14,C029,Customer 029,Denver,Gel Pen Set,Office Supplies,Consumer,33.59,0.28,4
+ORD-00371,2020-10-02,C081,Customer 081,Boston,HDMI Cable 2.0,Technology,Corporate,18.0,5.1,1
+ORD-00372,2020-04-28,C062,Customer 062,Seattle,Bluetooth Speaker,Technology,Consumer,220.07,14.07,3
+ORD-00373,2020-10-02,C040,Customer 040,Miami,Ergonomic Chair,Furniture,Home Office,317.16,48.22,2
+ORD-00374,2020-06-12,C018,Customer 018,Chicago,Desk Organizer,Office Supplies,Consumer,231.54,40.45,7
+ORD-00375,2020-10-11,C052,Customer 052,Houston,Ergonomic Chair,Furniture,Consumer,141.91,3.23,1
+ORD-00376,2020-01-10,C051,Customer 051,Houston,Lounge Sofa,Furniture,Corporate,941.02,91.05,3
+ORD-00377,2020-10-29,C026,Customer 026,Miami,USB Gaming Keyboard,Technology,Corporate,233.08,51.6,3
+ORD-00378,2020-02-16,C022,Customer 022,Denver,Printer Paper,Office Supplies,Corporate,83.86,23.14,4
+ORD-00379,2020-04-04,C056,Customer 056,Miami,Desk Organizer,Office Supplies,Corporate,74.77,11.84,3
+ORD-00380,2020-06-24,C059,Customer 059,Atlanta,Printer Paper,Office Supplies,Consumer,115.83,25.56,6
+ORD-00381,2020-05-14,C027,Customer 027,Los Angeles,Notebook Pack,Office Supplies,Home Office,9.76,1.04,1
+ORD-00382,2020-08-21,C036,Customer 036,Atlanta,Ergonomic Chair,Furniture,Home Office,974.51,160.17,8
+ORD-00383,2020-01-10,C064,Customer 064,New York,Notebook Pack,Office Supplies,Consumer,19.56,2.78,2
+ORD-00384,2020-11-02,C072,Customer 072,Chicago,Gel Pen Set,Office Supplies,Consumer,16.68,4.6,2
+ORD-00385,2020-03-02,C066,Customer 066,Atlanta,Ergonomic Chair,Furniture,Home Office,1090.6,104.57,8
+ORD-00386,2020-01-04,C063,Customer 063,San Francisco,Lounge Sofa,Furniture,Consumer,1145.2,286.15,3
+ORD-00387,2020-09-08,C005,Customer 005,Dallas,Wireless Mouse,Technology,Corporate,72.66,20.14,3
+ORD-00388,2020-01-26,C076,Customer 076,Atlanta,Ergonomic Chair,Furniture,Consumer,893.47,89.91,7
+ORD-00389,2020-08-29,C068,Customer 068,Dallas,Lounge Sofa,Furniture,Home Office,1853.64,256.45,6
+ORD-00390,2020-06-14,C024,Customer 024,Atlanta,Desk Organizer,Office Supplies,Consumer,157.12,37.27,5
+ORD-00391,2020-05-30,C083,Customer 083,Phoenix,USB Gaming Keyboard,Technology,Home Office,572.87,145.16,8
+ORD-00392,2020-05-29,C026,Customer 026,Chicago,Notebook Pack,Office Supplies,Corporate,24.05,2.16,2
+ORD-00393,2020-08-11,C075,Customer 075,Atlanta,Stapler,Office Supplies,Consumer,112.23,14.01,8
+ORD-00394,2020-12-30,C089,Customer 089,Los Angeles,HDMI Cable 2.0,Technology,Home Office,163.99,41.53,8
+ORD-00395,2020-02-24,C044,Customer 044,Seattle,Ergonomic Chair,Furniture,Consumer,471.25,85.06,4
+ORD-00396,2020-04-22,C043,Customer 043,Atlanta,Gel Pen Set,Office Supplies,Consumer,52.74,10.99,6
+ORD-00397,2020-06-20,C026,Customer 026,Phoenix,Wireless Mouse,Technology,Consumer,212.87,39.52,8
+ORD-00398,2020-02-16,C081,Customer 081,Boston,Wireless Mouse,Technology,Consumer,135.71,11.59,6
+ORD-00399,2020-04-19,C037,Customer 037,Boston,Folding Table,Furniture,Corporate,279.09,41.87,3
+ORD-00400,2020-02-09,C061,Customer 061,Boston,Power Bank Shell 5V,Technology,Home Office,353.72,76.61,5
+ORD-00401,2020-04-15,C044,Customer 044,San Francisco,Ergonomic Chair,Furniture,Consumer,610.63,37.31,5
+ORD-00402,2020-01-18,C028,Customer 028,Chicago,Lounge Sofa,Furniture,Corporate,718.49,43.27,2
+ORD-00403,2020-09-04,C033,Customer 033,Miami,Folding Table,Furniture,Consumer,419.28,53.39,5
+ORD-00404,2020-01-31,C032,Customer 032,San Francisco,Wireless Mouse,Technology,Corporate,62.39,16.82,2
+ORD-00405,2020-04-27,C078,Customer 078,Boston,Power Bank Shell 5V,Technology,Consumer,383.16,58.38,8
+ORD-00406,2020-07-04,C075,Customer 075,Dallas,Bluetooth Speaker,Technology,Consumer,582.5,112.94,7
+ORD-00407,2020-01-06,C041,Customer 041,San Francisco,Bookcase,Furniture,Consumer,768.98,45.13,7
+ORD-00408,2020-02-29,C051,Customer 051,Chicago,Bluetooth Speaker,Technology,Home Office,463.62,110.35,5
+ORD-00409,2020-09-24,C050,Customer 050,San Francisco,Wireless Mouse,Technology,Consumer,49.28,10.9,2
+ORD-00410,2020-01-30,C068,Customer 068,New York,HDMI Cable 2.0,Technology,Home Office,60.82,6.42,4
+ORD-00411,2020-01-14,C041,Customer 041,Los Angeles,Gel Pen Set,Office Supplies,Home Office,8.72,0.81,1
+ORD-00412,2020-10-09,C066,Customer 066,Los Angeles,Bookcase,Furniture,Corporate,490.01,116.31,5
+ORD-00413,2020-04-29,C054,Customer 054,Denver,Wireless Mouse,Technology,Consumer,65.9,9.81,3
+ORD-00414,2020-04-06,C024,Customer 024,Phoenix,Office Desk,Furniture,Home Office,546.44,95.34,3
+ORD-00415,2020-06-22,C028,Customer 028,Phoenix,Printer Paper,Office Supplies,Home Office,109.72,25.95,5
+ORD-00416,2020-03-03,C047,Customer 047,Dallas,Printer Paper,Office Supplies,Consumer,176.98,44.75,8
+ORD-00417,2020-07-14,C070,Customer 070,Boston,Desk Organizer,Office Supplies,Corporate,88.38,9.12,4
+ORD-00418,2020-09-05,C063,Customer 063,Seattle,HDMI Cable 2.0,Technology,Consumer,58.56,14.98,3
+ORD-00419,2020-01-29,C031,Customer 031,Boston,Lounge Sofa,Furniture,Corporate,1712.8,323.98,5
+ORD-00420,2020-06-22,C034,Customer 034,Houston,Gel Pen Set,Office Supplies,Home Office,62.48,12.37,7
+ORD-00421,2020-09-15,C022,Customer 022,Chicago,Power Bank Shell 5V,Technology,Corporate,109.32,27.8,2
+ORD-00422,2020-03-06,C057,Customer 057,Miami,Stapler,Office Supplies,Consumer,111.11,18.59,8
+ORD-00423,2020-03-09,C053,Customer 053,San Francisco,Bookcase,Furniture,Corporate,304.17,26.62,3
+ORD-00424,2020-08-21,C001,Customer 001,Chicago,Gel Pen Set,Office Supplies,Corporate,28.1,2.35,3
+ORD-00425,2020-02-07,C016,Customer 016,Boston,Stapler,Office Supplies,Corporate,90.86,14.92,8
+ORD-00426,2020-01-15,C042,Customer 042,Miami,Bluetooth Speaker,Technology,Home Office,844.24,78.38,8
+ORD-00427,2020-03-21,C058,Customer 058,Houston,Desk Organizer,Office Supplies,Corporate,33.92,3.68,1
+ORD-00428,2020-05-23,C055,Customer 055,Los Angeles,Bluetooth Speaker,Technology,Consumer,323.72,35.67,3
+ORD-00429,2020-07-12,C090,Customer 090,Atlanta,HDMI Cable 2.0,Technology,Corporate,118.24,29.86,7
+ORD-00430,2020-05-02,C043,Customer 043,Denver,Ergonomic Chair,Furniture,Corporate,1018.69,117.75,7
+ORD-00431,2020-10-04,C028,Customer 028,Miami,Folding Table,Furniture,Home Office,71.79,8.94,1
+ORD-00432,2020-11-08,C005,Customer 005,Miami,Folding Table,Furniture,Corporate,699.92,31.48,8
+ORD-00433,2020-05-21,C004,Customer 004,San Francisco,Notebook Pack,Office Supplies,Corporate,69.77,5.01,7
+ORD-00434,2020-10-22,C034,Customer 034,Chicago,Folding Table,Furniture,Consumer,462.93,73.6,6
+ORD-00435,2020-07-16,C042,Customer 042,New York,Printer Paper,Office Supplies,Consumer,43.38,0.27,2
+ORD-00436,2020-01-10,C066,Customer 066,Boston,Stapler,Office Supplies,Corporate,40.94,3.12,4
+ORD-00437,2020-01-24,C078,Customer 078,Phoenix,Printer Paper,Office Supplies,Consumer,20.63,4.5,1
+ORD-00438,2020-04-21,C090,Customer 090,Dallas,Folding Table,Furniture,Corporate,487.84,84.98,5
+ORD-00439,2020-06-07,C068,Customer 068,San Francisco,Gel Pen Set,Office Supplies,Corporate,19.75,2.08,2
+ORD-00440,2020-10-04,C067,Customer 067,Seattle,Wireless Mouse,Technology,Consumer,92.24,17.39,4
+ORD-00441,2020-01-20,C032,Customer 032,Phoenix,Folding Table,Furniture,Consumer,411.5,53.83,6
+ORD-00442,2020-10-17,C015,Customer 015,Phoenix,Gel Pen Set,Office Supplies,Consumer,63.79,16.95,8
+ORD-00443,2020-02-13,C081,Customer 081,Phoenix,Bluetooth Speaker,Technology,Consumer,522.17,124.3,5
+ORD-00444,2020-08-29,C021,Customer 021,New York,Desk Organizer,Office Supplies,Consumer,97.11,14.06,3
+ORD-00445,2020-04-09,C041,Customer 041,Seattle,HDMI Cable 2.0,Technology,Consumer,56.8,10.59,4
+ORD-00446,2020-07-22,C022,Customer 022,Phoenix,Gel Pen Set,Office Supplies,Corporate,46.05,7.96,6
+ORD-00447,2020-07-24,C049,Customer 049,Boston,Stapler,Office Supplies,Consumer,68.91,18.07,4
+ORD-00448,2020-09-10,C084,Customer 084,New York,Wireless Mouse,Technology,Corporate,164.14,7.34,7
+ORD-00449,2020-11-02,C007,Customer 007,Atlanta,Desk Organizer,Office Supplies,Home Office,138.46,17.69,4
+ORD-00450,2020-10-12,C061,Customer 061,Los Angeles,Power Bank Shell 5V,Technology,Home Office,400.6,67.09,6
+ORD-00451,2020-01-09,C003,Customer 003,Miami,Ergonomic Chair,Furniture,Consumer,856.91,116.98,6
+ORD-00452,2020-03-26,C012,Customer 012,Atlanta,Gel Pen Set,Office Supplies,Consumer,8.84,0.82,1
+ORD-00453,2020-07-11,C009,Customer 009,Phoenix,Bookcase,Furniture,Home Office,408.61,75.53,5
+ORD-00454,2020-09-29,C090,Customer 090,Houston,Desk Organizer,Office Supplies,Consumer,237.74,46.3,7
+ORD-00455,2020-05-06,C057,Customer 057,Miami,Power Bank Shell 5V,Technology,Consumer,285.94,56.36,4
+ORD-00456,2020-03-02,C087,Customer 087,Seattle,HDMI Cable 2.0,Technology,Corporate,140.16,13.93,8
+ORD-00457,2020-08-17,C088,Customer 088,Seattle,Bookcase,Furniture,Corporate,101.79,13.77,1
+ORD-00458,2020-07-27,C020,Customer 020,New York,Gel Pen Set,Office Supplies,Home Office,44.07,7.35,5
+ORD-00459,2020-06-02,C003,Customer 003,Chicago,Office Desk,Furniture,Consumer,574.81,45.68,3
+ORD-00460,2020-11-19,C009,Customer 009,Houston,HDMI Cable 2.0,Technology,Home Office,15.52,3.58,1
+ORD-00461,2020-03-01,C072,Customer 072,Phoenix,USB Gaming Keyboard,Technology,Consumer,193.56,33.76,3
+ORD-00462,2020-01-27,C060,Customer 060,Atlanta,Gel Pen Set,Office Supplies,Consumer,15.41,2.51,2
+ORD-00463,2020-10-18,C017,Customer 017,Dallas,Lounge Sofa,Furniture,Consumer,358.17,95.16,1
+ORD-00464,2020-12-01,C051,Customer 051,Miami,Stapler,Office Supplies,Consumer,93.48,11.32,8
+ORD-00465,2020-09-09,C012,Customer 012,Dallas,Notebook Pack,Office Supplies,Corporate,79.81,11.29,6
+ORD-00466,2020-12-25,C083,Customer 083,New York,USB Gaming Keyboard,Technology,Corporate,134.88,18.8,2
+ORD-00467,2020-07-20,C085,Customer 085,Chicago,Notebook Pack,Office Supplies,Corporate,68.67,8.07,6
+ORD-00468,2020-02-04,C024,Customer 024,Los Angeles,Bluetooth Speaker,Technology,Consumer,464.73,37.21,6
+ORD-00469,2020-12-09,C049,Customer 049,Seattle,Desk Organizer,Office Supplies,Corporate,139.0,14.45,5
+ORD-00470,2020-11-23,C067,Customer 067,Chicago,Stapler,Office Supplies,Consumer,54.0,11.74,4
+ORD-00471,2020-08-22,C036,Customer 036,Los Angeles,Wireless Mouse,Technology,Corporate,207.23,46.23,7
+ORD-00472,2020-02-21,C074,Customer 074,New York,Notebook Pack,Office Supplies,Consumer,52.61,11.11,5
+ORD-00473,2020-12-21,C089,Customer 089,New York,Gel Pen Set,Office Supplies,Consumer,45.02,5.64,6
+ORD-00474,2020-12-21,C082,Customer 082,Los Angeles,Wireless Mouse,Technology,Home Office,45.92,9.13,2
+ORD-00475,2020-10-06,C020,Customer 020,Dallas,Power Bank Shell 5V,Technology,Consumer,156.44,12.05,3
+ORD-00476,2020-02-19,C045,Customer 045,Seattle,Notebook Pack,Office Supplies,Corporate,52.17,7.3,5
+ORD-00477,2020-01-24,C088,Customer 088,Boston,Wireless Mouse,Technology,Consumer,261.52,27.95,8
+ORD-00478,2020-09-28,C005,Customer 005,Atlanta,Stapler,Office Supplies,Consumer,59.72,6.68,4
+ORD-00479,2020-07-03,C074,Customer 074,Atlanta,Notebook Pack,Office Supplies,Corporate,47.48,8.61,4
+ORD-00480,2020-08-22,C015,Customer 015,Miami,Folding Table,Furniture,Consumer,237.57,63.95,3
+ORD-00481,2020-06-10,C022,Customer 022,Dallas,Notebook Pack,Office Supplies,Consumer,11.91,1.98,1
+ORD-00482,2020-01-27,C022,Customer 022,San Francisco,Bookcase,Furniture,Consumer,461.14,-1.12,5
+ORD-00483,2020-12-29,C039,Customer 039,Seattle,Bluetooth Speaker,Technology,Home Office,348.42,71.0,4
+ORD-00484,2020-07-09,C052,Customer 052,Los Angeles,USB Gaming Keyboard,Technology,Corporate,530.22,83.78,6
+ORD-00485,2020-04-15,C049,Customer 049,Chicago,Gel Pen Set,Office Supplies,Corporate,9.75,0.58,1
+ORD-00486,2020-12-16,C069,Customer 069,New York,Notebook Pack,Office Supplies,Corporate,77.22,13.67,7
+ORD-00487,2020-01-20,C039,Customer 039,Chicago,Bluetooth Speaker,Technology,Consumer,351.77,23.06,4
+ORD-00488,2020-12-10,C023,Customer 023,Denver,USB Gaming Keyboard,Technology,Home Office,81.31,15.55,1
+ORD-00489,2020-03-08,C046,Customer 046,Atlanta,Stapler,Office Supplies,Home Office,27.62,4.17,2
+ORD-00490,2020-05-03,C041,Customer 041,San Francisco,Bookcase,Furniture,Home Office,374.66,51.72,4
+ORD-00491,2020-02-07,C065,Customer 065,Phoenix,Folding Table,Furniture,Corporate,579.4,137.61,7
+ORD-00492,2020-06-12,C078,Customer 078,Boston,Wireless Mouse,Technology,Consumer,216.36,25.03,8
+ORD-00493,2020-02-15,C004,Customer 004,New York,USB Gaming Keyboard,Technology,Consumer,493.42,134.62,7
+ORD-00494,2020-03-16,C015,Customer 015,San Francisco,USB Gaming Keyboard,Technology,Corporate,622.47,106.64,8
+ORD-00495,2020-09-13,C045,Customer 045,Los Angeles,Folding Table,Furniture,Corporate,75.55,19.21,1
+ORD-00496,2020-06-20,C012,Customer 012,Miami,Power Bank Shell 5V,Technology,Corporate,327.09,56.7,5
+ORD-00497,2020-10-21,C057,Customer 057,Boston,Desk Organizer,Office Supplies,Corporate,151.96,38.17,6
+ORD-00498,2020-03-02,C083,Customer 083,Atlanta,Gel Pen Set,Office Supplies,Consumer,22.43,3.34,3
+ORD-00499,2020-12-23,C017,Customer 017,Dallas,Desk Organizer,Office Supplies,Home Office,52.87,5.19,2
+ORD-00500,2020-05-02,C061,Customer 061,Seattle,Bookcase,Furniture,Consumer,409.47,78.85,5
+ORD-00501,2020-08-24,C078,Customer 078,Miami,Printer Paper,Office Supplies,Consumer,137.94,6.43,6
+ORD-00502,2020-03-05,C054,Customer 054,Los Angeles,Bookcase,Furniture,Consumer,109.28,23.04,1
+ORD-00503,2020-10-31,C040,Customer 040,Atlanta,Folding Table,Furniture,Home Office,631.32,140.19,8
+ORD-00504,2020-03-26,C019,Customer 019,Phoenix,HDMI Cable 2.0,Technology,Consumer,65.3,3.74,4
+ORD-00505,2020-06-27,C042,Customer 042,Dallas,Bluetooth Speaker,Technology,Consumer,141.16,13.04,2
+ORD-00506,2020-12-26,C012,Customer 012,Los Angeles,Gel Pen Set,Office Supplies,Corporate,45.63,4.94,5
+ORD-00507,2020-07-24,C010,Customer 010,Dallas,USB Gaming Keyboard,Technology,Corporate,580.34,147.82,7
+ORD-00508,2020-12-07,C083,Customer 083,Phoenix,Gel Pen Set,Office Supplies,Home Office,40.75,4.07,6
+ORD-00509,2020-03-20,C078,Customer 078,Denver,Bookcase,Furniture,Consumer,120.79,29.83,1
+ORD-00510,2020-06-06,C039,Customer 039,New York,Power Bank Shell 5V,Technology,Consumer,169.13,30.05,3
+ORD-00511,2020-09-17,C053,Customer 053,New York,Notebook Pack,Office Supplies,Corporate,20.51,3.93,2
+ORD-00512,2020-06-03,C089,Customer 089,Los Angeles,Folding Table,Furniture,Consumer,442.04,70.46,6
+ORD-00513,2020-09-19,C024,Customer 024,Denver,Lounge Sofa,Furniture,Consumer,2339.5,541.84,7
+ORD-00514,2020-05-19,C083,Customer 083,San Francisco,Notebook Pack,Office Supplies,Consumer,12.7,3.66,1
+ORD-00515,2020-07-20,C060,Customer 060,San Francisco,Desk Organizer,Office Supplies,Corporate,222.12,44.51,7
+ORD-00516,2020-02-03,C068,Customer 068,Dallas,Bookcase,Furniture,Corporate,684.93,67.04,7
+ORD-00517,2020-01-08,C045,Customer 045,Miami,Stapler,Office Supplies,Consumer,30.23,5.7,2
+ORD-00518,2020-01-28,C073,Customer 073,Dallas,Folding Table,Furniture,Corporate,424.26,98.62,5
+ORD-00519,2020-11-02,C049,Customer 049,Boston,Bluetooth Speaker,Technology,Corporate,398.1,73.39,4
+ORD-00520,2020-07-08,C090,Customer 090,Boston,Power Bank Shell 5V,Technology,Corporate,449.33,8.16,7
+ORD-00521,2020-12-27,C080,Customer 080,Denver,Bookcase,Furniture,Consumer,415.48,119.91,4
+ORD-00522,2020-11-19,C009,Customer 009,Houston,Bookcase,Furniture,Corporate,700.0,53.32,8
+ORD-00523,2020-04-02,C024,Customer 024,Denver,Power Bank Shell 5V,Technology,Consumer,406.29,65.4,7
+ORD-00524,2020-03-26,C017,Customer 017,Phoenix,Stapler,Office Supplies,Consumer,27.92,2.46,2
+ORD-00525,2020-11-27,C089,Customer 089,Chicago,Folding Table,Furniture,Consumer,725.12,116.51,8
+ORD-00526,2020-04-30,C013,Customer 013,Phoenix,Printer Paper,Office Supplies,Corporate,39.45,9.9,2
+ORD-00527,2020-06-05,C051,Customer 051,Miami,Power Bank Shell 5V,Technology,Corporate,165.28,12.48,3
+ORD-00528,2020-07-30,C001,Customer 001,Boston,Power Bank Shell 5V,Technology,Consumer,346.24,70.12,6
+ORD-00529,2020-02-29,C066,Customer 066,Seattle,Lounge Sofa,Furniture,Consumer,328.36,56.29,1
+ORD-00530,2020-07-24,C013,Customer 013,San Francisco,Desk Organizer,Office Supplies,Consumer,174.95,31.57,6
+ORD-00531,2020-01-27,C023,Customer 023,New York,Printer Paper,Office Supplies,Consumer,126.36,22.21,5
+ORD-00532,2020-01-04,C056,Customer 056,Boston,Stapler,Office Supplies,Consumer,55.29,14.6,4
+ORD-00533,2020-05-10,C010,Customer 010,Denver,Office Desk,Furniture,Corporate,1634.53,374.99,7
+ORD-00534,2020-08-14,C058,Customer 058,New York,Notebook Pack,Office Supplies,Corporate,12.91,3.46,1
+ORD-00535,2020-07-30,C042,Customer 042,Denver,USB Gaming Keyboard,Technology,Home Office,236.94,57.91,3
+ORD-00536,2020-12-23,C034,Customer 034,Chicago,Bluetooth Speaker,Technology,Corporate,159.76,32.28,2
+ORD-00537,2020-08-11,C053,Customer 053,Seattle,Stapler,Office Supplies,Home Office,40.74,0.32,3
+ORD-00538,2020-05-22,C039,Customer 039,Boston,Lounge Sofa,Furniture,Consumer,339.78,66.39,1
+ORD-00539,2020-09-15,C003,Customer 003,Miami,Office Desk,Furniture,Corporate,1117.43,214.18,5
+ORD-00540,2020-10-06,C028,Customer 028,Phoenix,Notebook Pack,Office Supplies,Corporate,48.78,10.4,5
+ORD-00541,2020-02-12,C020,Customer 020,Miami,Printer Paper,Office Supplies,Consumer,21.85,1.77,1
+ORD-00542,2020-03-06,C053,Customer 053,Denver,Bookcase,Furniture,Corporate,689.87,95.5,7
+ORD-00543,2020-09-01,C073,Customer 073,Los Angeles,Bluetooth Speaker,Technology,Corporate,501.43,130.72,5
+ORD-00544,2020-01-30,C063,Customer 063,Phoenix,HDMI Cable 2.0,Technology,Consumer,15.73,4.05,1
+ORD-00545,2020-10-09,C088,Customer 088,San Francisco,Office Desk,Furniture,Consumer,417.47,73.18,2
+ORD-00546,2020-12-15,C011,Customer 011,Houston,Bluetooth Speaker,Technology,Consumer,148.15,13.91,2
+ORD-00547,2020-09-06,C076,Customer 076,Phoenix,Wireless Mouse,Technology,Corporate,213.04,4.49,8
+ORD-00548,2020-12-18,C061,Customer 061,Chicago,Wireless Mouse,Technology,Consumer,147.94,28.3,6
+ORD-00549,2020-05-07,C081,Customer 081,Miami,Stapler,Office Supplies,Consumer,27.01,5.03,2
+ORD-00550,2020-01-24,C037,Customer 037,Phoenix,HDMI Cable 2.0,Technology,Consumer,19.89,2.43,1
+ORD-00551,2020-02-29,C060,Customer 060,Houston,USB Gaming Keyboard,Technology,Corporate,243.15,58.35,4
+ORD-00552,2020-07-08,C034,Customer 034,Boston,Gel Pen Set,Office Supplies,Corporate,6.55,1.29,1
+ORD-00553,2020-08-20,C020,Customer 020,Boston,Stapler,Office Supplies,Consumer,73.16,11.93,5
+ORD-00554,2020-01-14,C086,Customer 086,Seattle,USB Gaming Keyboard,Technology,Consumer,288.11,30.31,4
+ORD-00555,2020-08-18,C057,Customer 057,Chicago,Stapler,Office Supplies,Corporate,38.42,4.94,3
+ORD-00556,2020-07-22,C006,Customer 006,Dallas,Stapler,Office Supplies,Corporate,86.52,13.02,7
+ORD-00557,2020-10-23,C036,Customer 036,Dallas,USB Gaming Keyboard,Technology,Consumer,571.14,47.16,7
+ORD-00558,2020-09-09,C014,Customer 014,Boston,Notebook Pack,Office Supplies,Home Office,20.41,1.26,2
+ORD-00559,2020-09-04,C001,Customer 001,Houston,Office Desk,Furniture,Corporate,1193.89,207.65,7
+ORD-00560,2020-06-12,C033,Customer 033,Denver,Power Bank Shell 5V,Technology,Consumer,400.87,104.01,5
+ORD-00561,2020-04-02,C051,Customer 051,San Francisco,Bluetooth Speaker,Technology,Corporate,693.95,85.69,7
+ORD-00562,2020-07-03,C040,Customer 040,Phoenix,USB Gaming Keyboard,Technology,Consumer,694.32,144.99,8
+ORD-00563,2020-10-30,C012,Customer 012,Denver,Folding Table,Furniture,Home Office,94.09,22.18,1
+ORD-00564,2020-04-25,C040,Customer 040,Seattle,Printer Paper,Office Supplies,Consumer,61.82,5.06,3
+ORD-00565,2020-07-12,C016,Customer 016,Phoenix,Printer Paper,Office Supplies,Corporate,169.72,19.33,7
+ORD-00566,2020-03-04,C050,Customer 050,San Francisco,Stapler,Office Supplies,Consumer,94.3,20.46,6
+ORD-00567,2020-07-23,C015,Customer 015,Chicago,USB Gaming Keyboard,Technology,Consumer,502.67,31.76,7
+ORD-00568,2020-10-28,C027,Customer 027,Miami,Lounge Sofa,Furniture,Home Office,2922.62,546.98,7
+ORD-00569,2020-06-29,C065,Customer 065,Atlanta,Folding Table,Furniture,Home Office,441.85,22.07,5
+ORD-00570,2020-10-13,C037,Customer 037,Dallas,Lounge Sofa,Furniture,Consumer,652.3,55.19,2
+ORD-00571,2020-12-11,C052,Customer 052,Los Angeles,Desk Organizer,Office Supplies,Corporate,184.38,2.92,6
+ORD-00572,2020-05-06,C038,Customer 038,Boston,Printer Paper,Office Supplies,Consumer,19.77,0.78,1
+ORD-00573,2020-08-26,C071,Customer 071,Dallas,Office Desk,Furniture,Consumer,1139.33,252.78,5
+ORD-00574,2020-01-25,C003,Customer 003,San Francisco,Stapler,Office Supplies,Consumer,112.48,26.87,7
+ORD-00575,2020-04-11,C018,Customer 018,Dallas,Bluetooth Speaker,Technology,Corporate,532.98,96.36,5
+ORD-00576,2020-07-31,C013,Customer 013,Dallas,Notebook Pack,Office Supplies,Consumer,54.44,4.49,5
+ORD-00577,2020-10-10,C056,Customer 056,Miami,Bookcase,Furniture,Consumer,574.11,22.14,6
+ORD-00578,2020-08-01,C084,Customer 084,Los Angeles,Desk Organizer,Office Supplies,Corporate,188.82,47.83,6
+ORD-00579,2020-03-01,C010,Customer 010,Denver,Lounge Sofa,Furniture,Corporate,3361.1,701.66,8
+ORD-00580,2020-01-27,C053,Customer 053,Denver,Stapler,Office Supplies,Consumer,23.5,1.1,2
+ORD-00581,2020-08-13,C042,Customer 042,Los Angeles,Lounge Sofa,Furniture,Corporate,588.98,113.28,2
+ORD-00582,2020-06-17,C072,Customer 072,Denver,Ergonomic Chair,Furniture,Home Office,450.38,99.43,3
+ORD-00583,2020-10-28,C083,Customer 083,Boston,Lounge Sofa,Furniture,Consumer,355.78,54.95,1
+ORD-00584,2020-05-09,C045,Customer 045,Seattle,Notebook Pack,Office Supplies,Corporate,23.08,4.62,2
+ORD-00585,2020-02-12,C015,Customer 015,San Francisco,Bookcase,Furniture,Consumer,681.28,155.19,6
+ORD-00586,2020-08-24,C006,Customer 006,Los Angeles,Power Bank Shell 5V,Technology,Home Office,186.33,30.21,3
+ORD-00587,2020-08-08,C081,Customer 081,Los Angeles,Printer Paper,Office Supplies,Corporate,137.76,21.28,8
+ORD-00588,2020-09-08,C036,Customer 036,Phoenix,Lounge Sofa,Furniture,Corporate,2709.8,431.61,8
+ORD-00589,2020-12-25,C075,Customer 075,Miami,Desk Organizer,Office Supplies,Consumer,170.4,34.01,6
+ORD-00590,2020-02-28,C060,Customer 060,Boston,Folding Table,Furniture,Home Office,72.37,10.54,1
+ORD-00591,2020-10-29,C044,Customer 044,Atlanta,USB Gaming Keyboard,Technology,Home Office,464.35,77.97,7
+ORD-00592,2020-03-03,C004,Customer 004,Miami,Gel Pen Set,Office Supplies,Corporate,9.27,1.55,1
+ORD-00593,2020-08-20,C017,Customer 017,Boston,Desk Organizer,Office Supplies,Home Office,100.61,15.53,3
+ORD-00594,2020-08-06,C032,Customer 032,Phoenix,USB Gaming Keyboard,Technology,Corporate,524.85,87.63,7
+ORD-00595,2020-10-07,C062,Customer 062,Dallas,Stapler,Office Supplies,Consumer,118.84,31.36,8
+ORD-00596,2020-12-09,C064,Customer 064,Seattle,Desk Organizer,Office Supplies,Corporate,132.08,32.61,5
+ORD-00597,2020-11-07,C090,Customer 090,Seattle,Ergonomic Chair,Furniture,Corporate,364.68,70.32,3
+ORD-00598,2020-03-07,C004,Customer 004,Seattle,USB Gaming Keyboard,Technology,Consumer,519.09,89.57,7
+ORD-00599,2020-01-13,C021,Customer 021,Houston,Notebook Pack,Office Supplies,Consumer,22.21,4.72,2
+ORD-00600,2020-11-16,C017,Customer 017,Boston,Stapler,Office Supplies,Consumer,26.08,6.48,2
+ORD-00601,2020-04-19,C032,Customer 032,Chicago,Bluetooth Speaker,Technology,Corporate,95.09,5.54,1
+ORD-00602,2020-03-20,C064,Customer 064,Los Angeles,USB Gaming Keyboard,Technology,Consumer,341.72,43.47,5
+ORD-00603,2020-11-11,C068,Customer 068,Boston,Bookcase,Furniture,Home Office,958.17,147.67,8
+ORD-00604,2020-05-28,C059,Customer 059,Seattle,Power Bank Shell 5V,Technology,Home Office,522.64,91.69,7
+ORD-00605,2020-08-14,C013,Customer 013,Boston,USB Gaming Keyboard,Technology,Home Office,463.34,124.39,7
+ORD-00606,2020-06-19,C035,Customer 035,Los Angeles,Folding Table,Furniture,Consumer,640.19,175.76,8
+ORD-00607,2020-08-22,C074,Customer 074,Atlanta,Ergonomic Chair,Furniture,Consumer,890.54,220.62,6
+ORD-00608,2020-02-20,C080,Customer 080,Los Angeles,Bluetooth Speaker,Technology,Consumer,533.76,74.27,7
+ORD-00609,2020-01-03,C042,Customer 042,Boston,Office Desk,Furniture,Consumer,1965.94,261.68,8
+ORD-00610,2020-12-27,C044,Customer 044,Dallas,Desk Organizer,Office Supplies,Consumer,28.56,0.54,1
+ORD-00611,2020-09-30,C006,Customer 006,Phoenix,Notebook Pack,Office Supplies,Home Office,68.06,15.64,5
+ORD-00612,2020-01-14,C007,Customer 007,New York,Stapler,Office Supplies,Corporate,54.54,6.33,4
+ORD-00613,2020-04-07,C076,Customer 076,Dallas,Bluetooth Speaker,Technology,Consumer,81.4,3.95,1
+ORD-00614,2020-11-16,C048,Customer 048,Los Angeles,Wireless Mouse,Technology,Home Office,147.53,7.65,6
+ORD-00615,2020-05-11,C059,Customer 059,Dallas,Stapler,Office Supplies,Consumer,100.45,16.26,7
+ORD-00616,2020-12-12,C014,Customer 014,Chicago,Wireless Mouse,Technology,Corporate,27.12,1.73,1
+ORD-00617,2020-10-17,C054,Customer 054,San Francisco,Wireless Mouse,Technology,Consumer,127.13,15.76,5
+ORD-00618,2020-03-16,C059,Customer 059,Chicago,Notebook Pack,Office Supplies,Consumer,84.5,22.79,8
+ORD-00619,2020-04-30,C075,Customer 075,Los Angeles,Folding Table,Furniture,Consumer,541.89,97.45,8
+ORD-00620,2020-10-22,C089,Customer 089,Phoenix,Gel Pen Set,Office Supplies,Corporate,52.39,4.6,6
+ORD-00621,2020-06-15,C076,Customer 076,Los Angeles,Wireless Mouse,Technology,Consumer,54.21,12.26,2
+ORD-00622,2020-11-06,C033,Customer 033,Phoenix,Notebook Pack,Office Supplies,Consumer,72.12,19.48,6
+ORD-00623,2020-04-13,C056,Customer 056,Atlanta,Bookcase,Furniture,Consumer,719.32,97.23,6
+ORD-00624,2020-05-22,C042,Customer 042,San Francisco,Gel Pen Set,Office Supplies,Corporate,48.16,6.7,5
+ORD-00625,2020-04-29,C048,Customer 048,New York,Ergonomic Chair,Furniture,Consumer,806.46,212.36,5
+ORD-00626,2020-10-13,C063,Customer 063,Atlanta,Gel Pen Set,Office Supplies,Consumer,52.52,12.15,6
+ORD-00627,2020-08-27,C070,Customer 070,Denver,Power Bank Shell 5V,Technology,Corporate,205.45,30.09,4
+ORD-00628,2020-02-23,C035,Customer 035,Seattle,Power Bank Shell 5V,Technology,Corporate,435.43,101.38,7
+ORD-00629,2020-02-19,C039,Customer 039,New York,Power Bank Shell 5V,Technology,Consumer,350.52,-1.34,7
+ORD-00630,2020-05-18,C010,Customer 010,Atlanta,Bluetooth Speaker,Technology,Consumer,390.2,83.82,4
+ORD-00631,2020-03-24,C063,Customer 063,Denver,Lounge Sofa,Furniture,Consumer,1196.46,203.77,3
+ORD-00632,2020-06-20,C052,Customer 052,Los Angeles,Ergonomic Chair,Furniture,Corporate,147.43,21.56,1
+ORD-00633,2020-06-12,C074,Customer 074,Chicago,Lounge Sofa,Furniture,Consumer,2328.6,66.3,7
+ORD-00634,2020-04-10,C052,Customer 052,Miami,Gel Pen Set,Office Supplies,Corporate,70.24,13.83,7
+ORD-00635,2020-08-14,C015,Customer 015,San Francisco,Power Bank Shell 5V,Technology,Corporate,295.05,36.26,5
+ORD-00636,2020-08-08,C080,Customer 080,Atlanta,HDMI Cable 2.0,Technology,Corporate,140.35,30.44,8
+ORD-00637,2020-12-26,C054,Customer 054,Chicago,Gel Pen Set,Office Supplies,Home Office,33.45,2.31,5
+ORD-00638,2020-10-15,C037,Customer 037,Chicago,USB Gaming Keyboard,Technology,Corporate,82.06,5.54,1
+ORD-00639,2020-11-11,C016,Customer 016,Boston,Ergonomic Chair,Furniture,Home Office,332.44,42.62,3
+ORD-00640,2020-10-19,C039,Customer 039,Denver,Ergonomic Chair,Furniture,Corporate,160.96,36.71,1
+ORD-00641,2020-06-28,C020,Customer 020,Denver,Desk Organizer,Office Supplies,Home Office,142.0,21.75,5
+ORD-00642,2020-02-28,C054,Customer 054,Los Angeles,Printer Paper,Office Supplies,Corporate,25.37,4.47,1
+ORD-00643,2020-07-24,C050,Customer 050,Miami,Printer Paper,Office Supplies,Home Office,151.0,27.68,7
+ORD-00644,2020-09-16,C023,Customer 023,Miami,HDMI Cable 2.0,Technology,Corporate,13.09,-0.01,1
+ORD-00645,2020-02-08,C044,Customer 044,New York,USB Gaming Keyboard,Technology,Consumer,449.53,21.79,7
+ORD-00646,2020-08-25,C063,Customer 063,Atlanta,HDMI Cable 2.0,Technology,Consumer,39.38,8.9,3
+ORD-00647,2020-10-12,C081,Customer 081,Denver,Notebook Pack,Office Supplies,Consumer,51.78,14.28,4
+ORD-00648,2020-02-12,C052,Customer 052,Denver,Power Bank Shell 5V,Technology,Consumer,434.8,69.09,7
+ORD-00649,2020-09-27,C061,Customer 061,Dallas,Gel Pen Set,Office Supplies,Consumer,31.34,5.19,4
+ORD-00650,2020-08-06,C062,Customer 062,Seattle,USB Gaming Keyboard,Technology,Consumer,384.53,100.05,5
+ORD-00651,2020-07-22,C064,Customer 064,Houston,Bookcase,Furniture,Corporate,254.49,70.24,2
+ORD-00652,2020-08-30,C044,Customer 044,Seattle,Office Desk,Furniture,Home Office,1289.03,326.28,6
+ORD-00653,2020-09-22,C004,Customer 004,Phoenix,Folding Table,Furniture,Consumer,219.02,16.81,3
+ORD-00654,2020-06-09,C029,Customer 029,Dallas,Stapler,Office Supplies,Corporate,122.92,16.14,7
+ORD-00655,2020-04-23,C049,Customer 049,Phoenix,USB Gaming Keyboard,Technology,Consumer,441.53,80.28,6
+ORD-00656,2020-04-03,C014,Customer 014,Houston,Printer Paper,Office Supplies,Consumer,165.15,39.64,6
+ORD-00657,2020-04-21,C085,Customer 085,San Francisco,Gel Pen Set,Office Supplies,Home Office,40.18,4.8,5
+ORD-00658,2020-12-22,C057,Customer 057,Miami,USB Gaming Keyboard,Technology,Consumer,512.79,54.6,8
+ORD-00659,2020-10-21,C044,Customer 044,New York,Ergonomic Chair,Furniture,Consumer,602.24,79.84,5
+ORD-00660,2020-05-23,C065,Customer 065,Boston,Notebook Pack,Office Supplies,Consumer,96.64,22.62,8
+ORD-00661,2020-07-22,C082,Customer 082,New York,Power Bank Shell 5V,Technology,Consumer,390.45,19.34,7
+ORD-00662,2020-10-15,C005,Customer 005,Denver,Desk Organizer,Office Supplies,Home Office,77.88,13.87,3
+ORD-00663,2020-07-21,C061,Customer 061,San Francisco,Printer Paper,Office Supplies,Consumer,198.36,16.57,8
+ORD-00664,2020-02-12,C077,Customer 077,Dallas,Office Desk,Furniture,Corporate,1675.75,385.3,7
+ORD-00665,2020-02-03,C080,Customer 080,Chicago,Power Bank Shell 5V,Technology,Corporate,225.83,34.73,4
+ORD-00666,2020-07-30,C021,Customer 021,Seattle,Gel Pen Set,Office Supplies,Consumer,29.66,7.06,3
+ORD-00667,2020-12-28,C039,Customer 039,Chicago,Ergonomic Chair,Furniture,Consumer,131.23,26.64,1
+ORD-00668,2020-06-03,C037,Customer 037,Seattle,USB Gaming Keyboard,Technology,Consumer,300.34,17.55,4
+ORD-00669,2020-11-29,C042,Customer 042,Phoenix,USB Gaming Keyboard,Technology,Consumer,192.18,17.92,3
+ORD-00670,2020-02-28,C030,Customer 030,Chicago,Ergonomic Chair,Furniture,Consumer,286.21,18.08,2
+ORD-00671,2020-10-31,C025,Customer 025,Phoenix,HDMI Cable 2.0,Technology,Corporate,63.39,11.72,4
+ORD-00672,2020-05-11,C041,Customer 041,Chicago,Stapler,Office Supplies,Home Office,11.69,2.6,1
+ORD-00673,2020-11-07,C088,Customer 088,San Francisco,Stapler,Office Supplies,Consumer,59.45,13.94,5
+ORD-00674,2020-04-13,C007,Customer 007,Los Angeles,HDMI Cable 2.0,Technology,Consumer,99.72,28.25,5
+ORD-00675,2020-12-04,C032,Customer 032,Boston,USB Gaming Keyboard,Technology,Consumer,358.37,92.35,5
+ORD-00676,2020-04-22,C030,Customer 030,Boston,Folding Table,Furniture,Home Office,278.99,59.06,4
+ORD-00677,2020-04-18,C056,Customer 056,Miami,Printer Paper,Office Supplies,Home Office,83.2,6.92,4
+ORD-00678,2020-03-11,C010,Customer 010,Atlanta,Ergonomic Chair,Furniture,Consumer,1196.99,178.33,8
+ORD-00679,2020-03-03,C001,Customer 001,Chicago,Gel Pen Set,Office Supplies,Consumer,8.82,2.12,1
+ORD-00680,2020-02-19,C074,Customer 074,Denver,Bluetooth Speaker,Technology,Consumer,589.28,21.43,7
+ORD-00681,2020-02-02,C065,Customer 065,Boston,Lounge Sofa,Furniture,Home Office,639.5,153.47,2
+ORD-00682,2020-12-11,C005,Customer 005,Chicago,Stapler,Office Supplies,Home Office,56.63,6.62,4
+ORD-00683,2020-12-21,C038,Customer 038,Phoenix,Folding Table,Furniture,Consumer,586.11,142.84,6
+ORD-00684,2020-10-28,C048,Customer 048,New York,Lounge Sofa,Furniture,Home Office,2187.96,218.88,6
+ORD-00685,2020-12-02,C070,Customer 070,Seattle,Folding Table,Furniture,Consumer,314.75,27.66,4
+ORD-00686,2020-04-25,C042,Customer 042,Boston,Power Bank Shell 5V,Technology,Corporate,124.06,29.64,2
+ORD-00687,2020-09-08,C028,Customer 028,San Francisco,Power Bank Shell 5V,Technology,Consumer,180.0,52.77,3
+ORD-00688,2020-11-23,C073,Customer 073,Chicago,Office Desk,Furniture,Home Office,605.95,77.11,3
+ORD-00689,2020-09-07,C009,Customer 009,San Francisco,Wireless Mouse,Technology,Corporate,110.48,14.85,4
+ORD-00690,2020-11-06,C044,Customer 044,Boston,Wireless Mouse,Technology,Consumer,91.77,11.46,4
+ORD-00691,2020-07-22,C071,Customer 071,Boston,Wireless Mouse,Technology,Home Office,122.51,26.45,5
+ORD-00692,2020-08-25,C085,Customer 085,Boston,Stapler,Office Supplies,Consumer,84.12,12.09,6
+ORD-00693,2020-11-25,C025,Customer 025,Boston,Notebook Pack,Office Supplies,Corporate,58.64,11.36,6
+ORD-00694,2020-04-07,C073,Customer 073,Houston,USB Gaming Keyboard,Technology,Home Office,462.38,83.12,6
+ORD-00695,2020-04-06,C061,Customer 061,Dallas,Notebook Pack,Office Supplies,Consumer,44.9,5.17,4
+ORD-00696,2020-08-09,C029,Customer 029,Chicago,Lounge Sofa,Furniture,Corporate,2626.97,625.86,8
+ORD-00697,2020-08-15,C050,Customer 050,San Francisco,Gel Pen Set,Office Supplies,Home Office,67.76,14.05,8
+ORD-00698,2020-10-30,C061,Customer 061,Los Angeles,Desk Organizer,Office Supplies,Home Office,83.09,14.72,3
+ORD-00699,2020-08-09,C025,Customer 025,Seattle,Desk Organizer,Office Supplies,Corporate,224.8,45.58,8
+ORD-00700,2020-01-16,C001,Customer 001,Atlanta,Bluetooth Speaker,Technology,Consumer,186.49,44.07,2
+ORD-00701,2020-12-07,C043,Customer 043,Seattle,Wireless Mouse,Technology,Consumer,132.97,22.07,5
+ORD-00702,2020-04-07,C086,Customer 086,San Francisco,Wireless Mouse,Technology,Corporate,113.76,28.15,4
+ORD-00703,2020-11-29,C029,Customer 029,Seattle,Bluetooth Speaker,Technology,Consumer,267.23,50.17,4
+ORD-00704,2020-11-23,C056,Customer 056,Los Angeles,Lounge Sofa,Furniture,Consumer,2196.1,258.79,7
+ORD-00705,2020-04-12,C045,Customer 045,New York,Office Desk,Furniture,Corporate,822.21,203.55,4
+ORD-00706,2020-05-13,C064,Customer 064,San Francisco,Stapler,Office Supplies,Corporate,89.47,12.0,6
+ORD-00707,2020-09-12,C064,Customer 064,Chicago,Stapler,Office Supplies,Corporate,78.76,10.73,5
+ORD-00708,2020-03-12,C082,Customer 082,Denver,Ergonomic Chair,Furniture,Corporate,991.06,31.9,7
+ORD-00709,2020-08-06,C047,Customer 047,Chicago,Office Desk,Furniture,Home Office,1371.65,333.41,7
+ORD-00710,2020-05-30,C014,Customer 014,Houston,Notebook Pack,Office Supplies,Home Office,84.19,16.48,8
+ORD-00711,2020-07-02,C069,Customer 069,Seattle,Ergonomic Chair,Furniture,Consumer,454.7,89.9,3
+ORD-00712,2020-06-19,C051,Customer 051,Denver,HDMI Cable 2.0,Technology,Consumer,30.67,6.28,2
+ORD-00713,2020-02-21,C040,Customer 040,Seattle,Power Bank Shell 5V,Technology,Consumer,126.56,2.84,2
+ORD-00714,2020-12-26,C046,Customer 046,Chicago,Stapler,Office Supplies,Consumer,82.27,20.4,6
+ORD-00715,2020-02-16,C066,Customer 066,Boston,Bluetooth Speaker,Technology,Home Office,163.0,38.35,2
+ORD-00716,2020-11-22,C077,Customer 077,Phoenix,Stapler,Office Supplies,Consumer,114.56,29.96,7
+ORD-00717,2020-07-28,C008,Customer 008,New York,Ergonomic Chair,Furniture,Home Office,1103.83,227.55,8
+ORD-00718,2020-08-23,C032,Customer 032,Los Angeles,Power Bank Shell 5V,Technology,Corporate,458.54,51.26,8
+ORD-00719,2020-12-24,C076,Customer 076,Seattle,Stapler,Office Supplies,Home Office,42.77,8.19,3
+ORD-00720,2020-10-20,C007,Customer 007,Houston,Desk Organizer,Office Supplies,Consumer,82.95,15.58,3
+ORD-00721,2020-01-03,C090,Customer 090,New York,Gel Pen Set,Office Supplies,Consumer,34.87,4.65,5
+ORD-00722,2020-06-01,C057,Customer 057,Phoenix,Power Bank Shell 5V,Technology,Corporate,404.04,19.07,6
+ORD-00723,2020-12-15,C035,Customer 035,Miami,Desk Organizer,Office Supplies,Consumer,110.42,6.49,4
+ORD-00724,2020-06-13,C067,Customer 067,Miami,Desk Organizer,Office Supplies,Consumer,159.35,38.84,6
+ORD-00725,2020-11-13,C002,Customer 002,Dallas,Bookcase,Furniture,Consumer,97.85,13.25,1
+ORD-00726,2020-08-21,C068,Customer 068,Chicago,Ergonomic Chair,Furniture,Home Office,545.85,81.69,4
+ORD-00727,2020-09-01,C007,Customer 007,Atlanta,Desk Organizer,Office Supplies,Home Office,210.44,13.13,7
+ORD-00728,2020-06-03,C019,Customer 019,Dallas,Notebook Pack,Office Supplies,Home Office,95.03,22.49,8
+ORD-00729,2020-01-14,C074,Customer 074,Houston,Bookcase,Furniture,Consumer,795.74,137.78,7
+ORD-00730,2020-06-04,C019,Customer 019,New York,Ergonomic Chair,Furniture,Corporate,1230.85,204.41,8
+ORD-00731,2020-05-23,C003,Customer 003,Phoenix,Bluetooth Speaker,Technology,Consumer,223.88,26.89,3
+ORD-00732,2020-06-07,C035,Customer 035,Denver,HDMI Cable 2.0,Technology,Corporate,113.26,14.31,8
+ORD-00733,2020-04-08,C009,Customer 009,Boston,Office Desk,Furniture,Corporate,491.03,125.04,2
+ORD-00734,2020-01-07,C070,Customer 070,Denver,Folding Table,Furniture,Consumer,478.95,52.72,6
+ORD-00735,2020-12-11,C029,Customer 029,Phoenix,Stapler,Office Supplies,Corporate,106.66,8.81,8
+ORD-00736,2020-06-01,C061,Customer 061,New York,Gel Pen Set,Office Supplies,Home Office,27.92,7.98,3
+ORD-00737,2020-08-06,C063,Customer 063,San Francisco,Notebook Pack,Office Supplies,Corporate,48.38,8.29,5
+ORD-00738,2020-10-20,C081,Customer 081,Dallas,HDMI Cable 2.0,Technology,Consumer,80.34,12.64,4
+ORD-00739,2020-11-25,C010,Customer 010,Boston,Printer Paper,Office Supplies,Consumer,100.12,21.87,4
+ORD-00740,2020-03-28,C035,Customer 035,Chicago,Lounge Sofa,Furniture,Home Office,332.08,68.18,1
+ORD-00741,2020-12-15,C086,Customer 086,Dallas,Stapler,Office Supplies,Home Office,13.11,0.82,1
+ORD-00742,2020-03-30,C090,Customer 090,Chicago,Lounge Sofa,Furniture,Corporate,2343.46,420.77,7
+ORD-00743,2020-10-24,C086,Customer 086,Boston,Wireless Mouse,Technology,Home Office,97.45,16.21,3
+ORD-00744,2020-02-04,C011,Customer 011,Denver,Stapler,Office Supplies,Corporate,48.29,3.39,4
+ORD-00745,2020-03-26,C038,Customer 038,Phoenix,Stapler,Office Supplies,Corporate,106.03,13.95,7
+ORD-00746,2020-12-09,C071,Customer 071,Seattle,Bookcase,Furniture,Consumer,83.61,16.41,1
+ORD-00747,2020-09-02,C062,Customer 062,Dallas,Bluetooth Speaker,Technology,Consumer,372.23,21.82,4
+ORD-00748,2020-01-29,C037,Customer 037,Phoenix,HDMI Cable 2.0,Technology,Corporate,38.09,5.79,2
+ORD-00749,2020-08-18,C002,Customer 002,Los Angeles,Wireless Mouse,Technology,Corporate,233.13,27.25,8
+ORD-00750,2020-01-11,C008,Customer 008,Dallas,Stapler,Office Supplies,Corporate,42.86,4.87,3
+ORD-00751,2020-06-25,C058,Customer 058,Seattle,Printer Paper,Office Supplies,Home Office,76.35,4.21,4
+ORD-00752,2020-07-30,C051,Customer 051,San Francisco,Folding Table,Furniture,Consumer,296.31,56.53,3
+ORD-00753,2020-02-23,C026,Customer 026,Seattle,Office Desk,Furniture,Home Office,1422.82,231.43,8
+ORD-00754,2020-08-01,C025,Customer 025,Boston,Lounge Sofa,Furniture,Consumer,1355.16,182.25,4
+ORD-00755,2020-03-09,C049,Customer 049,Atlanta,HDMI Cable 2.0,Technology,Home Office,106.0,11.13,7
+ORD-00756,2020-06-02,C021,Customer 021,Denver,Bookcase,Furniture,Home Office,1026.84,151.44,8
+ORD-00757,2020-12-24,C038,Customer 038,New York,Ergonomic Chair,Furniture,Home Office,152.66,20.35,1
+ORD-00758,2020-10-16,C040,Customer 040,Seattle,Gel Pen Set,Office Supplies,Corporate,76.54,6.43,8
+ORD-00759,2020-11-11,C041,Customer 041,Seattle,HDMI Cable 2.0,Technology,Corporate,13.48,0.73,1
+ORD-00760,2020-06-12,C087,Customer 087,Boston,HDMI Cable 2.0,Technology,Consumer,33.26,7.6,2
+ORD-00761,2020-01-22,C043,Customer 043,Miami,Office Desk,Furniture,Home Office,237.55,41.71,1
+ORD-00762,2020-01-07,C013,Customer 013,Los Angeles,HDMI Cable 2.0,Technology,Corporate,39.62,3.61,2
+ORD-00763,2020-09-29,C064,Customer 064,New York,Folding Table,Furniture,Corporate,246.51,46.56,4
+ORD-00764,2020-08-24,C014,Customer 014,Miami,Printer Paper,Office Supplies,Consumer,97.8,7.26,5
+ORD-00765,2020-12-03,C073,Customer 073,San Francisco,Printer Paper,Office Supplies,Home Office,72.27,11.84,3
+ORD-00766,2020-10-07,C080,Customer 080,Dallas,Desk Organizer,Office Supplies,Corporate,241.64,71.43,8
+ORD-00767,2020-08-27,C061,Customer 061,Atlanta,Lounge Sofa,Furniture,Consumer,350.64,49.69,1
+ORD-00768,2020-03-10,C025,Customer 025,Denver,Lounge Sofa,Furniture,Consumer,1113.1,153.79,3
+ORD-00769,2020-05-22,C047,Customer 047,San Francisco,Stapler,Office Supplies,Home Office,68.29,9.85,5
+ORD-00770,2020-05-25,C021,Customer 021,Chicago,Lounge Sofa,Furniture,Consumer,2962.4,298.17,8
+ORD-00771,2020-11-28,C088,Customer 088,Chicago,Notebook Pack,Office Supplies,Consumer,34.08,3.97,3
+ORD-00772,2020-09-06,C047,Customer 047,Denver,Gel Pen Set,Office Supplies,Corporate,43.96,4.02,5
+ORD-00773,2020-08-19,C077,Customer 077,Chicago,USB Gaming Keyboard,Technology,Consumer,541.15,115.6,7
+ORD-00774,2020-04-15,C013,Customer 013,Phoenix,Ergonomic Chair,Furniture,Consumer,1278.48,334.59,8
+ORD-00775,2020-01-22,C022,Customer 022,Miami,Desk Organizer,Office Supplies,Consumer,110.98,7.42,4
+ORD-00776,2020-04-17,C021,Customer 021,Dallas,Wireless Mouse,Technology,Consumer,29.18,2.21,1
+ORD-00777,2020-02-27,C034,Customer 034,Miami,Office Desk,Furniture,Consumer,1523.56,43.7,8
+ORD-00778,2020-03-10,C057,Customer 057,Boston,Folding Table,Furniture,Home Office,352.54,37.5,4
+ORD-00779,2020-08-12,C006,Customer 006,Phoenix,Desk Organizer,Office Supplies,Consumer,148.52,26.09,5
+ORD-00780,2020-10-04,C086,Customer 086,Dallas,Notebook Pack,Office Supplies,Consumer,18.9,0.94,2
+ORD-00781,2020-08-30,C034,Customer 034,Seattle,Folding Table,Furniture,Consumer,551.14,86.94,7
+ORD-00782,2020-08-21,C036,Customer 036,Denver,Power Bank Shell 5V,Technology,Consumer,414.62,35.93,6
+ORD-00783,2020-05-20,C038,Customer 038,Houston,Folding Table,Furniture,Corporate,509.4,32.66,6
+ORD-00784,2020-12-27,C010,Customer 010,Denver,Ergonomic Chair,Furniture,Home Office,1297.51,111.79,8
+ORD-00785,2020-10-04,C073,Customer 073,Chicago,Printer Paper,Office Supplies,Corporate,19.21,2.11,1
+ORD-00786,2020-12-07,C084,Customer 084,Miami,Lounge Sofa,Furniture,Consumer,929.92,142.95,3
+ORD-00787,2020-04-18,C066,Customer 066,San Francisco,Gel Pen Set,Office Supplies,Home Office,62.76,16.82,6
+ORD-00788,2020-01-17,C021,Customer 021,Phoenix,USB Gaming Keyboard,Technology,Consumer,475.51,47.54,6
+ORD-00789,2020-05-10,C038,Customer 038,Miami,Printer Paper,Office Supplies,Corporate,39.25,3.63,2
+ORD-00790,2020-03-31,C008,Customer 008,Houston,Bookcase,Furniture,Consumer,808.5,125.55,7
+ORD-00791,2020-12-23,C001,Customer 001,New York,Gel Pen Set,Office Supplies,Consumer,40.71,0.64,6
+ORD-00792,2020-07-29,C015,Customer 015,Houston,Desk Organizer,Office Supplies,Consumer,27.36,2.13,1
+ORD-00793,2020-10-03,C061,Customer 061,New York,USB Gaming Keyboard,Technology,Corporate,563.36,73.35,8
+ORD-00794,2020-04-03,C030,Customer 030,Boston,Printer Paper,Office Supplies,Consumer,69.12,19.74,3
+ORD-00795,2020-12-21,C061,Customer 061,Miami,HDMI Cable 2.0,Technology,Consumer,30.81,3.38,2
+ORD-00796,2020-12-19,C017,Customer 017,San Francisco,Office Desk,Furniture,Corporate,919.83,142.28,5
+ORD-00797,2020-10-28,C026,Customer 026,Boston,Gel Pen Set,Office Supplies,Home Office,71.7,12.85,8
+ORD-00798,2020-05-22,C015,Customer 015,Atlanta,Wireless Mouse,Technology,Consumer,236.5,50.79,8
+ORD-00799,2020-05-18,C005,Customer 005,San Francisco,Bluetooth Speaker,Technology,Corporate,294.51,23.13,4
+ORD-00800,2020-05-20,C052,Customer 052,Chicago,Power Bank Shell 5V,Technology,Home Office,475.25,30.18,7
+ORD-00801,2020-08-08,C062,Customer 062,Atlanta,Printer Paper,Office Supplies,Consumer,72.8,13.66,3
+ORD-00802,2020-06-14,C032,Customer 032,Boston,Printer Paper,Office Supplies,Consumer,123.16,18.94,5
+ORD-00803,2020-08-04,C064,Customer 064,Dallas,Power Bank Shell 5V,Technology,Consumer,56.74,7.35,1
+ORD-00804,2020-12-19,C058,Customer 058,New York,Office Desk,Furniture,Consumer,213.89,13.4,1
+ORD-00805,2020-02-14,C075,Customer 075,Miami,Office Desk,Furniture,Home Office,717.42,157.57,4
+ORD-00806,2020-09-16,C007,Customer 007,Atlanta,Desk Organizer,Office Supplies,Corporate,177.37,-1.55,6
+ORD-00807,2020-09-29,C020,Customer 020,Phoenix,Wireless Mouse,Technology,Home Office,128.27,17.28,4
+ORD-00808,2020-09-09,C030,Customer 030,San Francisco,Wireless Mouse,Technology,Consumer,83.2,6.67,3
+ORD-00809,2020-02-15,C055,Customer 055,Dallas,Gel Pen Set,Office Supplies,Home Office,45.91,1.73,6
+ORD-00810,2020-10-10,C067,Customer 067,Boston,USB Gaming Keyboard,Technology,Home Office,479.42,18.87,7
+ORD-00811,2020-08-12,C054,Customer 054,Dallas,Wireless Mouse,Technology,Consumer,167.02,20.26,6
+ORD-00812,2020-10-14,C015,Customer 015,Boston,Office Desk,Furniture,Consumer,367.38,69.2,2
+ORD-00813,2020-08-15,C061,Customer 061,Atlanta,Bluetooth Speaker,Technology,Corporate,626.33,119.12,8
+ORD-00814,2020-08-12,C050,Customer 050,Phoenix,Bookcase,Furniture,Consumer,515.15,84.89,5
+ORD-00815,2020-08-12,C067,Customer 067,Phoenix,Printer Paper,Office Supplies,Corporate,142.84,36.35,6
+ORD-00816,2020-12-26,C004,Customer 004,Dallas,Gel Pen Set,Office Supplies,Corporate,7.94,1.98,1
+ORD-00817,2020-01-06,C054,Customer 054,Phoenix,USB Gaming Keyboard,Technology,Consumer,355.1,32.84,6
+ORD-00818,2020-11-10,C014,Customer 014,San Francisco,Lounge Sofa,Furniture,Home Office,1066.78,191.09,3
+ORD-00819,2020-08-24,C068,Customer 068,Boston,Power Bank Shell 5V,Technology,Corporate,422.31,105.56,6
+ORD-00820,2020-09-26,C046,Customer 046,Boston,Stapler,Office Supplies,Consumer,54.58,10.05,4
+ORD-00821,2020-11-16,C021,Customer 021,New York,Stapler,Office Supplies,Consumer,109.7,19.66,7
+ORD-00822,2020-11-02,C071,Customer 071,Atlanta,Power Bank Shell 5V,Technology,Corporate,527.64,61.88,7
+ORD-00823,2020-08-03,C029,Customer 029,Denver,Notebook Pack,Office Supplies,Consumer,60.32,10.28,6
+ORD-00824,2020-10-26,C090,Customer 090,Houston,Gel Pen Set,Office Supplies,Consumer,17.81,3.81,2
+ORD-00825,2020-12-06,C012,Customer 012,New York,Power Bank Shell 5V,Technology,Corporate,367.9,83.14,6
+ORD-00826,2020-08-20,C021,Customer 021,Miami,Bookcase,Furniture,Corporate,598.51,56.87,8
+ORD-00827,2020-03-23,C067,Customer 067,Dallas,HDMI Cable 2.0,Technology,Consumer,150.91,13.59,8
+ORD-00828,2020-12-15,C069,Customer 069,Los Angeles,HDMI Cable 2.0,Technology,Consumer,26.33,3.19,2
+ORD-00829,2020-05-20,C017,Customer 017,New York,Power Bank Shell 5V,Technology,Consumer,249.51,51.27,4
+ORD-00830,2020-10-26,C026,Customer 026,Denver,Power Bank Shell 5V,Technology,Consumer,446.74,38.59,7
+ORD-00831,2020-07-18,C037,Customer 037,Phoenix,HDMI Cable 2.0,Technology,Home Office,52.06,7.58,3
+ORD-00832,2020-03-04,C034,Customer 034,Boston,Wireless Mouse,Technology,Home Office,101.62,2.83,4
+ORD-00833,2020-07-26,C056,Customer 056,Atlanta,Desk Organizer,Office Supplies,Corporate,62.16,13.84,2
+ORD-00834,2020-03-13,C025,Customer 025,Denver,Bookcase,Furniture,Consumer,701.19,146.68,7
+ORD-00835,2020-11-07,C040,Customer 040,Houston,Office Desk,Furniture,Corporate,1329.5,194.62,7
+ORD-00836,2020-06-27,C049,Customer 049,New York,Notebook Pack,Office Supplies,Corporate,54.53,9.33,5
+ORD-00837,2020-03-18,C018,Customer 018,Miami,USB Gaming Keyboard,Technology,Consumer,196.96,25.39,3
+ORD-00838,2020-05-23,C023,Customer 023,Phoenix,Office Desk,Furniture,Consumer,1369.72,170.44,7
+ORD-00839,2020-04-22,C042,Customer 042,New York,Stapler,Office Supplies,Consumer,46.61,11.1,3
+ORD-00840,2020-01-08,C073,Customer 073,Atlanta,Notebook Pack,Office Supplies,Consumer,38.37,2.33,4
+ORD-00841,2020-05-17,C001,Customer 001,Seattle,Office Desk,Furniture,Consumer,908.84,116.94,4
+ORD-00842,2020-08-15,C069,Customer 069,Atlanta,USB Gaming Keyboard,Technology,Corporate,73.19,7.4,1
+ORD-00843,2020-07-17,C042,Customer 042,Dallas,USB Gaming Keyboard,Technology,Corporate,475.82,50.72,6
+ORD-00844,2020-11-23,C067,Customer 067,Miami,Power Bank Shell 5V,Technology,Corporate,221.79,45.02,3
+ORD-00845,2020-06-06,C006,Customer 006,Boston,USB Gaming Keyboard,Technology,Corporate,81.19,19.96,1
+ORD-00846,2020-03-13,C057,Customer 057,Atlanta,Gel Pen Set,Office Supplies,Consumer,38.16,4.69,4
+ORD-00847,2020-11-23,C056,Customer 056,New York,Printer Paper,Office Supplies,Home Office,145.31,38.05,6
+ORD-00848,2020-04-17,C070,Customer 070,Los Angeles,Office Desk,Furniture,Consumer,775.19,129.14,4
+ORD-00849,2020-02-15,C002,Customer 002,Denver,Bluetooth Speaker,Technology,Corporate,77.59,5.71,1
+ORD-00850,2020-12-06,C070,Customer 070,Houston,HDMI Cable 2.0,Technology,Corporate,113.53,5.86,7
+ORD-00851,2020-12-18,C045,Customer 045,Chicago,Office Desk,Furniture,Corporate,443.39,106.43,2
+ORD-00852,2020-01-27,C044,Customer 044,Denver,Wireless Mouse,Technology,Home Office,45.59,5.11,2
+ORD-00853,2020-09-12,C071,Customer 071,Chicago,Lounge Sofa,Furniture,Home Office,2596.98,331.54,6
+ORD-00854,2020-09-22,C054,Customer 054,Denver,Office Desk,Furniture,Consumer,355.33,37.66,2
+ORD-00855,2020-03-18,C019,Customer 019,Phoenix,Notebook Pack,Office Supplies,Corporate,84.27,11.53,7
+ORD-00856,2020-10-01,C048,Customer 048,New York,Wireless Mouse,Technology,Corporate,134.59,7.71,5
+ORD-00857,2020-03-02,C005,Customer 005,New York,Bookcase,Furniture,Consumer,455.0,26.24,4
+ORD-00858,2020-11-03,C016,Customer 016,Phoenix,Bookcase,Furniture,Corporate,663.44,109.76,6
+ORD-00859,2020-01-10,C052,Customer 052,Miami,Bookcase,Furniture,Home Office,252.26,63.54,2
+ORD-00860,2020-02-22,C021,Customer 021,Denver,Stapler,Office Supplies,Consumer,64.16,5.77,4
+ORD-00861,2020-06-15,C047,Customer 047,Boston,Notebook Pack,Office Supplies,Corporate,31.44,5.47,3
+ORD-00862,2020-01-14,C045,Customer 045,Phoenix,Office Desk,Furniture,Home Office,799.38,43.25,5
+ORD-00863,2020-11-11,C069,Customer 069,Chicago,Gel Pen Set,Office Supplies,Consumer,21.16,5.08,3
+ORD-00864,2020-02-20,C081,Customer 081,Boston,Ergonomic Chair,Furniture,Consumer,558.53,83.96,4
+ORD-00865,2020-03-03,C012,Customer 012,New York,Office Desk,Furniture,Consumer,380.45,53.68,2
+ORD-00866,2020-05-02,C067,Customer 067,Phoenix,Bluetooth Speaker,Technology,Consumer,884.7,100.82,8
+ORD-00867,2020-06-23,C006,Customer 006,San Francisco,USB Gaming Keyboard,Technology,Corporate,491.5,53.69,7
+ORD-00868,2020-01-06,C063,Customer 063,San Francisco,Office Desk,Furniture,Consumer,237.22,30.09,1
+ORD-00869,2020-08-04,C021,Customer 021,Boston,USB Gaming Keyboard,Technology,Consumer,530.16,93.48,8
+ORD-00870,2020-11-07,C043,Customer 043,Boston,Bluetooth Speaker,Technology,Consumer,490.25,74.83,6
+ORD-00871,2020-10-21,C086,Customer 086,San Francisco,Desk Organizer,Office Supplies,Consumer,142.74,30.42,5
+ORD-00872,2020-12-04,C051,Customer 051,San Francisco,Lounge Sofa,Furniture,Consumer,2714.22,540.56,6
+ORD-00873,2020-01-30,C038,Customer 038,Dallas,Ergonomic Chair,Furniture,Corporate,155.06,31.85,1
+ORD-00874,2020-03-07,C040,Customer 040,Los Angeles,Gel Pen Set,Office Supplies,Corporate,45.05,7.58,6
+ORD-00875,2020-07-28,C019,Customer 019,Chicago,Printer Paper,Office Supplies,Consumer,90.74,5.44,4
+ORD-00876,2020-04-24,C008,Customer 008,Houston,Lounge Sofa,Furniture,Consumer,1231.79,151.73,4
+ORD-00877,2020-02-17,C074,Customer 074,Houston,HDMI Cable 2.0,Technology,Corporate,52.93,2.48,3
+ORD-00878,2020-12-23,C033,Customer 033,Boston,Desk Organizer,Office Supplies,Consumer,138.95,19.06,4
+ORD-00879,2020-01-31,C016,Customer 016,Phoenix,Power Bank Shell 5V,Technology,Consumer,308.94,78.6,4
+ORD-00880,2020-11-13,C077,Customer 077,San Francisco,Printer Paper,Office Supplies,Home Office,173.2,37.76,7
+ORD-00881,2020-03-31,C008,Customer 008,Miami,Printer Paper,Office Supplies,Consumer,23.28,4.48,1
+ORD-00882,2020-01-10,C007,Customer 007,San Francisco,Office Desk,Furniture,Consumer,752.6,55.33,4
+ORD-00883,2020-02-19,C038,Customer 038,Phoenix,Folding Table,Furniture,Corporate,444.83,122.83,5
+ORD-00884,2020-12-04,C065,Customer 065,Seattle,Notebook Pack,Office Supplies,Corporate,41.45,11.43,3
+ORD-00885,2020-08-11,C065,Customer 065,Miami,Office Desk,Furniture,Consumer,659.19,100.84,4
+ORD-00886,2020-10-02,C006,Customer 006,San Francisco,Desk Organizer,Office Supplies,Consumer,155.4,20.73,5
+ORD-00887,2020-05-21,C010,Customer 010,San Francisco,Office Desk,Furniture,Home Office,1152.79,115.04,6
+ORD-00888,2020-05-04,C028,Customer 028,Dallas,Wireless Mouse,Technology,Home Office,25.89,1.14,1
+ORD-00889,2020-07-16,C087,Customer 087,San Francisco,Gel Pen Set,Office Supplies,Consumer,8.61,2.08,1
+ORD-00890,2020-09-26,C043,Customer 043,Los Angeles,Wireless Mouse,Technology,Home Office,148.68,18.46,5
+ORD-00891,2020-01-19,C009,Customer 009,Houston,Wireless Mouse,Technology,Consumer,215.94,34.75,8
+ORD-00892,2020-09-15,C079,Customer 079,San Francisco,Printer Paper,Office Supplies,Corporate,119.08,23.7,5
+ORD-00893,2020-08-29,C087,Customer 087,New York,Ergonomic Chair,Furniture,Consumer,805.29,173.13,6
+ORD-00894,2020-03-25,C056,Customer 056,Seattle,Printer Paper,Office Supplies,Home Office,155.16,14.94,7
+ORD-00895,2020-08-10,C077,Customer 077,Los Angeles,Ergonomic Chair,Furniture,Corporate,727.06,167.42,6
+ORD-00896,2020-06-19,C022,Customer 022,Atlanta,Desk Organizer,Office Supplies,Home Office,221.91,5.38,8
+ORD-00897,2020-01-08,C045,Customer 045,Atlanta,Ergonomic Chair,Furniture,Corporate,1078.34,235.08,8
+ORD-00898,2020-03-16,C015,Customer 015,Seattle,Printer Paper,Office Supplies,Home Office,107.03,27.43,5
+ORD-00899,2020-08-23,C082,Customer 082,Seattle,USB Gaming Keyboard,Technology,Home Office,306.2,40.96,4
+ORD-00900,2020-01-14,C024,Customer 024,San Francisco,Office Desk,Furniture,Corporate,1684.26,103.61,8
+ORD-00901,2020-01-14,C072,Customer 072,Boston,Desk Organizer,Office Supplies,Consumer,92.2,8.24,3
+ORD-00902,2020-07-18,C020,Customer 020,Los Angeles,Lounge Sofa,Furniture,Consumer,1363.09,261.28,3
+ORD-00903,2020-08-23,C062,Customer 062,Los Angeles,USB Gaming Keyboard,Technology,Corporate,158.71,12.04,2
+ORD-00904,2020-07-15,C017,Customer 017,Atlanta,Printer Paper,Office Supplies,Consumer,200.9,21.55,8
+ORD-00905,2020-10-21,C045,Customer 045,Chicago,Ergonomic Chair,Furniture,Consumer,1115.01,91.43,8
+ORD-00906,2020-09-01,C030,Customer 030,Atlanta,Lounge Sofa,Furniture,Consumer,2564.5,666.95,6
+ORD-00907,2020-06-13,C018,Customer 018,Seattle,Ergonomic Chair,Furniture,Corporate,140.84,27.18,1
+ORD-00908,2020-06-19,C014,Customer 014,Phoenix,HDMI Cable 2.0,Technology,Corporate,108.4,20.26,7
+ORD-00909,2020-04-14,C052,Customer 052,Phoenix,Stapler,Office Supplies,Consumer,103.95,8.68,8
+ORD-00910,2020-05-16,C016,Customer 016,Seattle,Stapler,Office Supplies,Consumer,39.28,8.38,3
+ORD-00911,2020-01-06,C041,Customer 041,Los Angeles,USB Gaming Keyboard,Technology,Corporate,365.92,36.86,6
+ORD-00912,2020-11-01,C053,Customer 053,Seattle,Notebook Pack,Office Supplies,Home Office,22.8,4.95,2
+ORD-00913,2020-11-07,C066,Customer 066,New York,Gel Pen Set,Office Supplies,Consumer,17.82,3.82,2
+ORD-00914,2020-02-22,C061,Customer 061,Denver,Notebook Pack,Office Supplies,Consumer,59.53,2.2,6
+ORD-00915,2020-04-03,C088,Customer 088,Atlanta,Printer Paper,Office Supplies,Consumer,159.59,23.44,8
+ORD-00916,2020-03-31,C041,Customer 041,Houston,Power Bank Shell 5V,Technology,Consumer,52.28,11.36,1
+ORD-00917,2020-05-23,C066,Customer 066,Phoenix,Lounge Sofa,Furniture,Home Office,2410.98,348.98,7
+ORD-00918,2020-10-26,C089,Customer 089,Chicago,Desk Organizer,Office Supplies,Consumer,199.83,26.93,6
+ORD-00919,2020-10-01,C050,Customer 050,San Francisco,Ergonomic Chair,Furniture,Home Office,266.18,57.59,2
+ORD-00920,2020-04-19,C009,Customer 009,Chicago,Stapler,Office Supplies,Consumer,59.81,15.15,5
+ORD-00921,2020-12-02,C079,Customer 079,Dallas,Printer Paper,Office Supplies,Home Office,189.48,34.64,7
+ORD-00922,2020-10-15,C032,Customer 032,Miami,Gel Pen Set,Office Supplies,Consumer,18.22,3.91,2
+ORD-00923,2020-03-06,C029,Customer 029,Dallas,Notebook Pack,Office Supplies,Corporate,75.72,16.41,8
+ORD-00924,2020-10-17,C057,Customer 057,Seattle,Desk Organizer,Office Supplies,Consumer,31.0,6.66,1
+ORD-00925,2020-03-07,C007,Customer 007,Los Angeles,Gel Pen Set,Office Supplies,Home Office,54.28,-0.05,8
+ORD-00926,2020-08-24,C081,Customer 081,Miami,Bluetooth Speaker,Technology,Consumer,488.8,113.46,6
+ORD-00927,2020-05-02,C083,Customer 083,Boston,Stapler,Office Supplies,Consumer,11.71,0.41,1
+ORD-00928,2020-01-06,C062,Customer 062,Houston,Printer Paper,Office Supplies,Consumer,66.81,3.53,3
+ORD-00929,2020-12-10,C012,Customer 012,Atlanta,Wireless Mouse,Technology,Consumer,45.48,9.59,2
+ORD-00930,2020-11-05,C051,Customer 051,Phoenix,Power Bank Shell 5V,Technology,Consumer,108.92,4.35,2
+ORD-00931,2020-04-18,C080,Customer 080,Atlanta,Stapler,Office Supplies,Home Office,83.94,12.51,6
+ORD-00932,2020-02-14,C017,Customer 017,Phoenix,Wireless Mouse,Technology,Home Office,241.94,65.44,8
+ORD-00933,2020-03-15,C083,Customer 083,Dallas,Lounge Sofa,Furniture,Consumer,1393.42,162.5,4
+ORD-00934,2020-01-06,C001,Customer 001,Boston,Stapler,Office Supplies,Consumer,63.39,4.13,4
+ORD-00935,2020-10-20,C036,Customer 036,Boston,Bluetooth Speaker,Technology,Consumer,177.01,42.16,2
+ORD-00936,2020-02-05,C013,Customer 013,Dallas,Office Desk,Furniture,Consumer,1409.03,140.42,7
+ORD-00937,2020-10-21,C012,Customer 012,Miami,Lounge Sofa,Furniture,Consumer,2747.39,279.46,7
+ORD-00938,2020-02-06,C006,Customer 006,Houston,Power Bank Shell 5V,Technology,Consumer,116.2,18.32,2
+ORD-00939,2020-09-08,C069,Customer 069,Houston,Bluetooth Speaker,Technology,Consumer,658.33,76.92,6
+ORD-00940,2020-02-24,C046,Customer 046,New York,Power Bank Shell 5V,Technology,Consumer,425.14,67.94,8
+ORD-00941,2020-04-08,C079,Customer 079,Los Angeles,Office Desk,Furniture,Consumer,652.64,109.42,3
+ORD-00942,2020-02-14,C052,Customer 052,Houston,Gel Pen Set,Office Supplies,Home Office,63.54,9.56,6
+ORD-00943,2020-07-09,C029,Customer 029,Dallas,Bookcase,Furniture,Consumer,155.54,11.66,2
+ORD-00944,2020-02-12,C072,Customer 072,Denver,Bookcase,Furniture,Corporate,597.27,54.27,6
+ORD-00945,2020-02-11,C080,Customer 080,Boston,Bluetooth Speaker,Technology,Consumer,609.46,120.89,6
+ORD-00946,2020-10-10,C043,Customer 043,New York,Notebook Pack,Office Supplies,Corporate,39.62,9.08,4
+ORD-00947,2020-07-04,C007,Customer 007,Boston,Desk Organizer,Office Supplies,Consumer,47.71,2.95,2
+ORD-00948,2020-04-01,C016,Customer 016,Phoenix,Wireless Mouse,Technology,Corporate,65.1,14.3,2
+ORD-00949,2020-01-11,C015,Customer 015,Miami,Wireless Mouse,Technology,Corporate,97.98,23.18,3
+ORD-00950,2020-12-15,C085,Customer 085,Los Angeles,Bookcase,Furniture,Consumer,815.41,75.65,7
+ORD-00951,2020-09-07,C083,Customer 083,Houston,Ergonomic Chair,Furniture,Consumer,554.29,40.19,4
+ORD-00952,2020-12-15,C082,Customer 082,Phoenix,Stapler,Office Supplies,Consumer,49.31,7.25,3
+ORD-00953,2020-10-29,C067,Customer 067,Phoenix,Wireless Mouse,Technology,Consumer,155.95,5.93,7
+ORD-00954,2020-11-22,C040,Customer 040,Dallas,Notebook Pack,Office Supplies,Consumer,85.49,15.49,7
+ORD-00955,2020-05-01,C080,Customer 080,Boston,Stapler,Office Supplies,Consumer,114.28,22.39,8
+ORD-00956,2020-11-11,C087,Customer 087,Houston,Folding Table,Furniture,Consumer,654.85,187.0,7
+ORD-00957,2020-08-03,C083,Customer 083,Dallas,Power Bank Shell 5V,Technology,Consumer,332.79,46.09,5
+ORD-00958,2020-02-16,C011,Customer 011,New York,Bluetooth Speaker,Technology,Home Office,364.02,53.49,4
+ORD-00959,2020-02-14,C002,Customer 002,Denver,Notebook Pack,Office Supplies,Consumer,33.15,0.7,3
+ORD-00960,2020-09-21,C060,Customer 060,Denver,Bluetooth Speaker,Technology,Consumer,318.44,89.01,3
+ORD-00961,2020-05-15,C089,Customer 089,Seattle,Notebook Pack,Office Supplies,Corporate,12.23,0.47,1
+ORD-00962,2020-02-15,C033,Customer 033,Chicago,Printer Paper,Office Supplies,Consumer,146.87,35.34,7
+ORD-00963,2020-03-18,C077,Customer 077,Atlanta,Notebook Pack,Office Supplies,Home Office,75.05,14.19,6
+ORD-00964,2020-11-03,C053,Customer 053,Dallas,Lounge Sofa,Furniture,Consumer,2618.33,17.01,8
+ORD-00965,2020-01-01,C086,Customer 086,Atlanta,Office Desk,Furniture,Consumer,1163.18,90.08,6
+ORD-00966,2020-08-28,C012,Customer 012,Miami,Gel Pen Set,Office Supplies,Home Office,46.18,6.85,6
+ORD-00967,2020-10-27,C042,Customer 042,Phoenix,Bluetooth Speaker,Technology,Consumer,539.6,60.75,7
+ORD-00968,2020-03-12,C037,Customer 037,San Francisco,Bookcase,Furniture,Corporate,545.27,123.55,5
+ORD-00969,2020-04-12,C051,Customer 051,Phoenix,Lounge Sofa,Furniture,Corporate,2599.37,491.1,6
+ORD-00970,2020-11-02,C026,Customer 026,Denver,Wireless Mouse,Technology,Home Office,56.01,13.16,2
+ORD-00971,2020-08-24,C005,Customer 005,Boston,Lounge Sofa,Furniture,Corporate,2176.23,619.29,6
+ORD-00972,2020-02-13,C002,Customer 002,Boston,Ergonomic Chair,Furniture,Corporate,537.98,93.68,5
+ORD-00973,2020-07-19,C002,Customer 002,Dallas,Power Bank Shell 5V,Technology,Consumer,433.02,98.61,7
+ORD-00974,2020-07-26,C031,Customer 031,Chicago,Power Bank Shell 5V,Technology,Corporate,159.69,27.28,3
+ORD-00975,2020-10-17,C083,Customer 083,Houston,Desk Organizer,Office Supplies,Consumer,25.74,2.22,1
+ORD-00976,2020-11-30,C072,Customer 072,New York,Office Desk,Furniture,Consumer,940.42,281.13,4
+ORD-00977,2020-10-03,C090,Customer 090,Boston,Office Desk,Furniture,Consumer,380.29,70.72,2
+ORD-00978,2020-05-23,C068,Customer 068,Atlanta,Desk Organizer,Office Supplies,Corporate,140.17,33.34,5
+ORD-00979,2020-07-31,C020,Customer 020,Dallas,Bookcase,Furniture,Corporate,759.86,118.71,8
+ORD-00980,2020-01-27,C002,Customer 002,San Francisco,Gel Pen Set,Office Supplies,Consumer,31.24,2.31,4
+ORD-00981,2020-03-21,C048,Customer 048,Denver,Notebook Pack,Office Supplies,Consumer,38.74,4.42,4
+ORD-00982,2020-01-18,C065,Customer 065,Dallas,Bookcase,Furniture,Consumer,98.78,21.04,1
+ORD-00983,2020-12-10,C016,Customer 016,Chicago,Gel Pen Set,Office Supplies,Corporate,17.43,1.96,2
+ORD-00984,2020-06-04,C038,Customer 038,Seattle,Folding Table,Furniture,Corporate,334.97,13.77,5
+ORD-00985,2020-11-06,C077,Customer 077,Los Angeles,Folding Table,Furniture,Consumer,544.51,59.41,7
+ORD-00986,2020-05-03,C069,Customer 069,Atlanta,Gel Pen Set,Office Supplies,Consumer,18.21,1.58,2
+ORD-00987,2020-09-29,C061,Customer 061,Dallas,Office Desk,Furniture,Home Office,1149.0,245.34,6
+ORD-00988,2020-09-07,C020,Customer 020,San Francisco,Bookcase,Furniture,Consumer,619.69,131.75,6
+ORD-00989,2020-03-31,C076,Customer 076,Miami,Folding Table,Furniture,Consumer,576.41,50.3,7
+ORD-00990,2020-11-09,C048,Customer 048,Dallas,Ergonomic Chair,Furniture,Home Office,294.85,18.92,2
+ORD-00991,2020-04-13,C025,Customer 025,San Francisco,Wireless Mouse,Technology,Home Office,159.56,28.06,6
+ORD-00992,2020-01-20,C038,Customer 038,New York,HDMI Cable 2.0,Technology,Consumer,107.44,25.15,6
+ORD-00993,2020-11-14,C010,Customer 010,Boston,Bookcase,Furniture,Consumer,124.34,16.63,1
+ORD-00994,2020-02-19,C082,Customer 082,Chicago,Gel Pen Set,Office Supplies,Consumer,8.51,2.34,1
+ORD-00995,2020-07-05,C053,Customer 053,Atlanta,Stapler,Office Supplies,Corporate,59.21,7.31,4
+ORD-00996,2020-12-15,C030,Customer 030,San Francisco,Folding Table,Furniture,Consumer,800.52,137.38,8
+ORD-00997,2020-04-13,C020,Customer 020,Phoenix,USB Gaming Keyboard,Technology,Consumer,310.87,44.59,4
+ORD-00998,2020-07-29,C077,Customer 077,Miami,HDMI Cable 2.0,Technology,Consumer,52.44,-0.19,4
+ORD-00999,2020-02-08,C074,Customer 074,Phoenix,USB Gaming Keyboard,Technology,Consumer,702.28,60.75,8
+ORD-01000,2020-02-11,C045,Customer 045,Phoenix,Power Bank Shell 5V,Technology,Consumer,275.84,76.81,4
+ORD-01001,2020-04-23,C049,Customer 049,Chicago,Stapler,Office Supplies,Consumer,37.16,5.92,3
+ORD-01002,2020-01-17,C064,Customer 064,New York,Desk Organizer,Office Supplies,Consumer,156.8,40.27,5
+ORD-01003,2020-12-03,C022,Customer 022,Denver,Power Bank Shell 5V,Technology,Home Office,380.82,47.45,6
+ORD-01004,2020-03-11,C010,Customer 010,Seattle,USB Gaming Keyboard,Technology,Consumer,513.88,50.97,7
+ORD-01005,2020-12-18,C022,Customer 022,Dallas,Office Desk,Furniture,Consumer,848.37,78.59,4
+ORD-01006,2020-11-24,C046,Customer 046,Chicago,Stapler,Office Supplies,Consumer,119.36,29.93,8
+ORD-01007,2020-08-05,C079,Customer 079,Seattle,HDMI Cable 2.0,Technology,Consumer,49.72,10.31,3
+ORD-01008,2020-11-11,C025,Customer 025,Boston,Bluetooth Speaker,Technology,Consumer,81.89,7.36,1
+ORD-01009,2020-05-23,C078,Customer 078,Los Angeles,Lounge Sofa,Furniture,Corporate,3470.2,858.61,8
+ORD-01010,2020-12-21,C038,Customer 038,Miami,Power Bank Shell 5V,Technology,Consumer,275.47,27.96,4
+ORD-01011,2020-10-12,C035,Customer 035,Seattle,Gel Pen Set,Office Supplies,Consumer,26.53,6.55,3
+ORD-01012,2020-08-17,C059,Customer 059,San Francisco,USB Gaming Keyboard,Technology,Home Office,375.21,86.81,5
+ORD-01013,2020-04-16,C080,Customer 080,Denver,HDMI Cable 2.0,Technology,Consumer,112.7,9.72,7
+ORD-01014,2020-07-17,C025,Customer 025,Seattle,Notebook Pack,Office Supplies,Consumer,13.18,1.31,1
+ORD-01015,2020-03-20,C042,Customer 042,Atlanta,Ergonomic Chair,Furniture,Consumer,642.81,143.07,5
+ORD-01016,2020-02-05,C023,Customer 023,Chicago,USB Gaming Keyboard,Technology,Consumer,417.9,79.67,6
+ORD-01017,2020-03-26,C065,Customer 065,New York,Desk Organizer,Office Supplies,Consumer,105.6,12.79,4
+ORD-01018,2020-05-25,C037,Customer 037,Miami,Bluetooth Speaker,Technology,Consumer,71.85,11.78,1
+ORD-01019,2020-01-16,C038,Customer 038,Houston,Bluetooth Speaker,Technology,Home Office,251.03,32.74,3
+ORD-01020,2020-08-08,C082,Customer 082,Dallas,Bookcase,Furniture,Corporate,453.15,53.42,5
+ORD-01021,2020-09-30,C086,Customer 086,New York,Stapler,Office Supplies,Consumer,46.75,3.39,4
+ORD-01022,2020-11-17,C054,Customer 054,Chicago,Printer Paper,Office Supplies,Corporate,41.21,6.73,2
+ORD-01023,2020-09-14,C019,Customer 019,Dallas,Notebook Pack,Office Supplies,Consumer,54.96,13.47,4
+ORD-01024,2020-05-21,C019,Customer 019,Phoenix,Wireless Mouse,Technology,Corporate,77.31,16.69,3
+ORD-01025,2020-07-05,C088,Customer 088,Phoenix,Ergonomic Chair,Furniture,Corporate,314.06,51.98,3
+ORD-01026,2020-11-14,C085,Customer 085,New York,USB Gaming Keyboard,Technology,Home Office,84.94,7.6,1
+ORD-01027,2020-06-06,C023,Customer 023,Phoenix,Bookcase,Furniture,Home Office,95.99,15.98,1
+ORD-01028,2020-07-27,C040,Customer 040,Phoenix,Folding Table,Furniture,Home Office,613.01,28.22,8
+ORD-01029,2020-12-21,C043,Customer 043,San Francisco,Printer Paper,Office Supplies,Consumer,222.35,35.15,8
+ORD-01030,2020-06-10,C021,Customer 021,Houston,Ergonomic Chair,Furniture,Consumer,1101.39,118.27,7
+ORD-01031,2020-12-24,C022,Customer 022,Los Angeles,Desk Organizer,Office Supplies,Consumer,204.76,48.57,7
+ORD-01032,2020-03-12,C072,Customer 072,Seattle,Ergonomic Chair,Furniture,Consumer,578.04,80.47,5
+ORD-01033,2020-12-20,C065,Customer 065,San Francisco,Printer Paper,Office Supplies,Corporate,94.8,16.2,5
+ORD-01034,2020-09-01,C017,Customer 017,San Francisco,Desk Organizer,Office Supplies,Consumer,80.9,4.25,3
+ORD-01035,2020-10-28,C087,Customer 087,Boston,Printer Paper,Office Supplies,Consumer,140.02,8.34,7
+ORD-01036,2020-07-12,C003,Customer 003,Dallas,Bluetooth Speaker,Technology,Consumer,431.48,26.88,5
+ORD-01037,2020-06-19,C072,Customer 072,Miami,Gel Pen Set,Office Supplies,Consumer,31.5,3.41,4
+ORD-01038,2020-03-13,C028,Customer 028,Phoenix,Power Bank Shell 5V,Technology,Consumer,346.41,44.85,6
+ORD-01039,2020-05-09,C024,Customer 024,Seattle,Bluetooth Speaker,Technology,Consumer,392.35,94.71,5
+ORD-01040,2020-08-02,C004,Customer 004,New York,Printer Paper,Office Supplies,Home Office,22.66,3.18,1
+ORD-01041,2020-06-08,C069,Customer 069,Atlanta,Notebook Pack,Office Supplies,Corporate,75.74,11.26,7
+ORD-01042,2020-04-03,C025,Customer 025,Chicago,Ergonomic Chair,Furniture,Corporate,469.69,118.74,3
+ORD-01043,2020-12-14,C089,Customer 089,Dallas,Desk Organizer,Office Supplies,Consumer,148.8,30.4,5
+ORD-01044,2020-10-09,C057,Customer 057,Dallas,Gel Pen Set,Office Supplies,Home Office,33.38,4.48,4
+ORD-01045,2020-07-20,C057,Customer 057,Los Angeles,Gel Pen Set,Office Supplies,Corporate,40.77,4.0,5
+ORD-01046,2020-08-21,C061,Customer 061,Boston,Office Desk,Furniture,Home Office,559.68,100.47,3
+ORD-01047,2020-03-19,C065,Customer 065,Chicago,Gel Pen Set,Office Supplies,Home Office,25.46,1.54,3
+ORD-01048,2020-12-26,C037,Customer 037,New York,Bluetooth Speaker,Technology,Consumer,310.41,56.74,4
+ORD-01049,2020-04-15,C031,Customer 031,Los Angeles,Ergonomic Chair,Furniture,Home Office,528.55,81.39,4
+ORD-01050,2020-11-11,C043,Customer 043,Denver,Power Bank Shell 5V,Technology,Corporate,342.66,66.74,6
+ORD-01051,2020-06-21,C061,Customer 061,Chicago,Desk Organizer,Office Supplies,Corporate,226.44,17.4,8
+ORD-01052,2020-10-25,C086,Customer 086,Houston,Desk Organizer,Office Supplies,Corporate,70.65,6.2,3
+ORD-01053,2020-05-09,C005,Customer 005,Denver,Desk Organizer,Office Supplies,Corporate,65.41,15.39,2
+ORD-01054,2020-05-06,C066,Customer 066,Houston,Printer Paper,Office Supplies,Consumer,134.6,19.98,7
+ORD-01055,2020-08-15,C049,Customer 049,Phoenix,Notebook Pack,Office Supplies,Consumer,37.6,3.34,4
+ORD-01056,2020-10-18,C007,Customer 007,San Francisco,Folding Table,Furniture,Corporate,196.45,28.38,3
+ORD-01057,2020-07-12,C043,Customer 043,Seattle,Desk Organizer,Office Supplies,Corporate,203.77,42.61,6
+ORD-01058,2020-12-09,C009,Customer 009,Phoenix,Office Desk,Furniture,Consumer,772.73,109.87,4
+ORD-01059,2020-10-13,C053,Customer 053,New York,Stapler,Office Supplies,Corporate,112.24,24.8,8
+ORD-01060,2020-05-31,C024,Customer 024,Houston,Notebook Pack,Office Supplies,Consumer,71.3,11.83,6
+ORD-01061,2020-12-19,C018,Customer 018,Atlanta,Folding Table,Furniture,Consumer,437.79,57.42,6
+ORD-01062,2020-03-29,C035,Customer 035,Denver,Printer Paper,Office Supplies,Consumer,55.58,5.04,3
+ORD-01063,2020-12-14,C025,Customer 025,Seattle,Printer Paper,Office Supplies,Consumer,53.54,11.94,2
+ORD-01064,2020-10-13,C028,Customer 028,Seattle,Ergonomic Chair,Furniture,Corporate,503.58,105.99,4
+ORD-01065,2020-01-28,C025,Customer 025,Phoenix,Bluetooth Speaker,Technology,Corporate,353.13,53.26,4
+ORD-01066,2020-12-26,C068,Customer 068,Denver,Ergonomic Chair,Furniture,Consumer,346.09,72.09,3
+ORD-01067,2020-01-31,C013,Customer 013,Houston,Bookcase,Furniture,Consumer,677.55,75.6,8
+ORD-01068,2020-08-11,C001,Customer 001,Miami,Notebook Pack,Office Supplies,Corporate,109.06,24.52,8
+ORD-01069,2020-04-10,C090,Customer 090,Chicago,Bookcase,Furniture,Corporate,488.19,70.53,4
+ORD-01070,2020-10-13,C031,Customer 031,Chicago,USB Gaming Keyboard,Technology,Consumer,568.91,149.93,8
+ORD-01071,2020-03-21,C080,Customer 080,Miami,HDMI Cable 2.0,Technology,Consumer,72.25,15.67,4
+ORD-01072,2020-12-23,C049,Customer 049,Miami,Power Bank Shell 5V,Technology,Consumer,207.74,43.33,4
+ORD-01073,2020-02-14,C064,Customer 064,Boston,Desk Organizer,Office Supplies,Home Office,37.26,8.42,1
+ORD-01074,2020-01-12,C082,Customer 082,Denver,Gel Pen Set,Office Supplies,Consumer,48.62,5.05,7
+ORD-01075,2020-06-22,C042,Customer 042,Dallas,Desk Organizer,Office Supplies,Home Office,238.71,15.29,8
+ORD-01076,2020-12-29,C010,Customer 010,Los Angeles,Desk Organizer,Office Supplies,Consumer,187.25,15.43,8
+ORD-01077,2020-12-25,C054,Customer 054,Dallas,USB Gaming Keyboard,Technology,Consumer,210.73,45.21,3
+ORD-01078,2020-05-05,C060,Customer 060,New York,Stapler,Office Supplies,Consumer,115.91,10.02,8
+ORD-01079,2020-09-04,C046,Customer 046,Dallas,Ergonomic Chair,Furniture,Corporate,127.76,26.71,1
+ORD-01080,2020-05-17,C051,Customer 051,Phoenix,Ergonomic Chair,Furniture,Home Office,608.95,79.47,4
+ORD-01081,2020-10-19,C061,Customer 061,Miami,Desk Organizer,Office Supplies,Home Office,188.6,31.87,6
+ORD-01082,2020-04-30,C047,Customer 047,Miami,Office Desk,Furniture,Corporate,1310.76,118.18,7
+ORD-01083,2020-07-28,C027,Customer 027,Denver,Power Bank Shell 5V,Technology,Consumer,299.94,54.39,5
+ORD-01084,2020-07-01,C039,Customer 039,San Francisco,Desk Organizer,Office Supplies,Consumer,61.58,7.01,2
+ORD-01085,2020-11-22,C044,Customer 044,New York,Bookcase,Furniture,Corporate,372.45,47.86,4
+ORD-01086,2020-08-05,C017,Customer 017,Chicago,Gel Pen Set,Office Supplies,Consumer,8.82,0.88,1
+ORD-01087,2020-08-27,C050,Customer 050,Denver,Folding Table,Furniture,Home Office,586.22,79.1,6
+ORD-01088,2020-10-19,C031,Customer 031,Boston,Bookcase,Furniture,Consumer,324.51,43.52,4
+ORD-01089,2020-09-23,C090,Customer 090,Los Angeles,Power Bank Shell 5V,Technology,Home Office,227.07,46.51,4
+ORD-01090,2020-05-06,C043,Customer 043,Boston,Power Bank Shell 5V,Technology,Corporate,393.24,51.63,7
+ORD-01091,2020-10-04,C035,Customer 035,Phoenix,Ergonomic Chair,Furniture,Corporate,627.58,118.39,5
+ORD-01092,2020-07-14,C025,Customer 025,Dallas,USB Gaming Keyboard,Technology,Consumer,569.13,52.05,8
+ORD-01093,2020-08-01,C006,Customer 006,Seattle,Power Bank Shell 5V,Technology,Consumer,182.62,11.03,3
+ORD-01094,2020-10-15,C067,Customer 067,Houston,USB Gaming Keyboard,Technology,Consumer,617.04,92.42,8
+ORD-01095,2020-06-22,C026,Customer 026,New York,Folding Table,Furniture,Corporate,420.36,88.87,5
+ORD-01096,2020-10-11,C017,Customer 017,Houston,Stapler,Office Supplies,Corporate,38.95,6.99,3
+ORD-01097,2020-07-24,C030,Customer 030,Seattle,Bookcase,Furniture,Home Office,518.54,-3.93,5
+ORD-01098,2020-11-30,C054,Customer 054,Chicago,Bluetooth Speaker,Technology,Consumer,268.91,43.96,3
+ORD-01099,2020-03-11,C026,Customer 026,San Francisco,Bluetooth Speaker,Technology,Consumer,470.34,116.13,6
+ORD-01100,2020-06-21,C077,Customer 077,Atlanta,Gel Pen Set,Office Supplies,Home Office,19.56,1.54,3
+ORD-01101,2020-12-13,C007,Customer 007,Denver,Notebook Pack,Office Supplies,Consumer,41.41,6.69,3
+ORD-01102,2020-11-02,C028,Customer 028,Dallas,Desk Organizer,Office Supplies,Corporate,129.81,17.93,5
+ORD-01103,2020-08-26,C015,Customer 015,New York,Printer Paper,Office Supplies,Home Office,44.16,3.77,2
+ORD-01104,2020-06-01,C027,Customer 027,Phoenix,USB Gaming Keyboard,Technology,Consumer,276.91,-1.97,5
+ORD-01105,2020-06-15,C031,Customer 031,Seattle,Stapler,Office Supplies,Consumer,14.48,0.55,1
+ORD-01106,2020-07-03,C045,Customer 045,Chicago,Power Bank Shell 5V,Technology,Consumer,208.7,33.05,3
+ORD-01107,2020-12-21,C021,Customer 021,Dallas,Stapler,Office Supplies,Corporate,98.77,15.14,6
+ORD-01108,2020-06-10,C006,Customer 006,Miami,Stapler,Office Supplies,Consumer,88.61,12.53,8
+ORD-01109,2020-09-16,C073,Customer 073,Atlanta,Bookcase,Furniture,Corporate,494.8,112.54,5
+ORD-01110,2020-07-11,C085,Customer 085,Boston,USB Gaming Keyboard,Technology,Consumer,467.1,83.44,7
+ORD-01111,2020-03-07,C056,Customer 056,New York,Gel Pen Set,Office Supplies,Home Office,16.99,3.31,2
+ORD-01112,2020-12-19,C030,Customer 030,Houston,Bookcase,Furniture,Consumer,768.8,59.05,8
+ORD-01113,2020-08-04,C041,Customer 041,Dallas,Stapler,Office Supplies,Corporate,49.64,13.91,3
+ORD-01114,2020-11-25,C063,Customer 063,San Francisco,HDMI Cable 2.0,Technology,Home Office,48.89,7.91,3
+ORD-01115,2020-01-23,C075,Customer 075,Houston,Folding Table,Furniture,Consumer,474.86,121.33,6
+ORD-01116,2020-07-09,C020,Customer 020,New York,Office Desk,Furniture,Corporate,1243.73,240.81,6
+ORD-01117,2020-09-16,C071,Customer 071,Boston,HDMI Cable 2.0,Technology,Corporate,37.79,8.03,2
+ORD-01118,2020-08-13,C032,Customer 032,New York,Bookcase,Furniture,Corporate,351.91,29.25,4
+ORD-01119,2020-12-18,C090,Customer 090,Chicago,Printer Paper,Office Supplies,Consumer,112.71,24.31,5
+ORD-01120,2020-06-02,C006,Customer 006,Phoenix,Stapler,Office Supplies,Consumer,81.81,20.63,6
+ORD-01121,2020-02-26,C012,Customer 012,San Francisco,Gel Pen Set,Office Supplies,Home Office,8.94,0.99,1
+ORD-01122,2020-06-04,C020,Customer 020,Houston,USB Gaming Keyboard,Technology,Corporate,337.15,52.31,5
+ORD-01123,2020-07-27,C053,Customer 053,Seattle,HDMI Cable 2.0,Technology,Corporate,101.97,11.79,5
+ORD-01124,2020-11-24,C054,Customer 054,Houston,Wireless Mouse,Technology,Home Office,164.9,21.61,6
+ORD-01125,2020-11-18,C061,Customer 061,Denver,Power Bank Shell 5V,Technology,Corporate,471.06,63.3,7
+ORD-01126,2020-06-01,C050,Customer 050,Dallas,Lounge Sofa,Furniture,Consumer,1554.99,298.43,4
+ORD-01127,2020-06-02,C052,Customer 052,Denver,Folding Table,Furniture,Consumer,248.96,68.16,3
+ORD-01128,2020-09-06,C079,Customer 079,Dallas,Desk Organizer,Office Supplies,Consumer,102.61,12.95,4
+ORD-01129,2020-08-11,C006,Customer 006,Atlanta,Printer Paper,Office Supplies,Consumer,25.65,2.93,1
+ORD-01130,2020-07-23,C082,Customer 082,Miami,HDMI Cable 2.0,Technology,Consumer,29.16,3.91,2
+ORD-01131,2020-09-09,C005,Customer 005,Phoenix,Desk Organizer,Office Supplies,Consumer,149.98,33.9,4
+ORD-01132,2020-06-07,C029,Customer 029,Dallas,USB Gaming Keyboard,Technology,Corporate,519.73,98.12,8
+ORD-01133,2020-12-09,C001,Customer 001,San Francisco,Lounge Sofa,Furniture,Consumer,3118.86,450.59,8
+ORD-01134,2020-03-08,C019,Customer 019,New York,Gel Pen Set,Office Supplies,Consumer,45.85,1.75,6
+ORD-01135,2020-02-28,C049,Customer 049,Miami,HDMI Cable 2.0,Technology,Home Office,54.83,4.3,3
+ORD-01136,2020-08-17,C055,Customer 055,Houston,Office Desk,Furniture,Corporate,209.08,46.36,1
+ORD-01137,2020-12-04,C030,Customer 030,Phoenix,Bluetooth Speaker,Technology,Corporate,602.18,87.34,6
+ORD-01138,2020-03-12,C064,Customer 064,New York,Power Bank Shell 5V,Technology,Consumer,317.36,66.15,5
+ORD-01139,2020-09-18,C083,Customer 083,Miami,Bookcase,Furniture,Consumer,766.49,146.56,7
+ORD-01140,2020-07-09,C029,Customer 029,San Francisco,Bookcase,Furniture,Consumer,525.27,135.01,5
+ORD-01141,2020-05-13,C044,Customer 044,Denver,Gel Pen Set,Office Supplies,Consumer,53.7,4.47,6
+ORD-01142,2020-01-27,C083,Customer 083,Denver,Stapler,Office Supplies,Consumer,57.27,1.61,5
+ORD-01143,2020-05-14,C088,Customer 088,Miami,Bluetooth Speaker,Technology,Consumer,356.42,73.74,5
+ORD-01144,2020-10-06,C071,Customer 071,Seattle,Folding Table,Furniture,Consumer,560.47,113.19,6
+ORD-01145,2020-07-22,C050,Customer 050,Miami,Notebook Pack,Office Supplies,Corporate,50.17,9.17,4
+ORD-01146,2020-11-01,C057,Customer 057,Denver,USB Gaming Keyboard,Technology,Home Office,309.31,49.31,4
+ORD-01147,2020-02-09,C045,Customer 045,Miami,Gel Pen Set,Office Supplies,Consumer,39.2,5.06,5
+ORD-01148,2020-03-11,C015,Customer 015,Miami,Ergonomic Chair,Furniture,Consumer,123.69,15.67,1
+ORD-01149,2020-11-19,C058,Customer 058,Atlanta,Office Desk,Furniture,Corporate,1188.55,221.38,6
+ORD-01150,2020-11-08,C080,Customer 080,Denver,Power Bank Shell 5V,Technology,Consumer,393.6,72.28,6
+ORD-01151,2020-02-04,C028,Customer 028,Miami,Wireless Mouse,Technology,Home Office,150.85,25.84,5
+ORD-01152,2020-01-05,C010,Customer 010,Atlanta,HDMI Cable 2.0,Technology,Corporate,28.2,4.92,2
+ORD-01153,2020-02-07,C071,Customer 071,Atlanta,Gel Pen Set,Office Supplies,Corporate,24.94,3.9,4
+ORD-01154,2020-12-07,C002,Customer 002,New York,Ergonomic Chair,Furniture,Consumer,145.64,42.09,1
+ORD-01155,2020-01-14,C021,Customer 021,Chicago,Folding Table,Furniture,Consumer,301.72,16.11,5
+ORD-01156,2020-07-27,C001,Customer 001,Dallas,Desk Organizer,Office Supplies,Consumer,88.51,1.03,3
+ORD-01157,2020-03-28,C049,Customer 049,Denver,Ergonomic Chair,Furniture,Corporate,899.86,95.64,7
+ORD-01158,2020-07-24,C033,Customer 033,Dallas,Ergonomic Chair,Furniture,Consumer,726.21,107.97,6
+ORD-01159,2020-06-19,C076,Customer 076,San Francisco,Wireless Mouse,Technology,Consumer,141.62,19.48,5
+ORD-01160,2020-07-15,C022,Customer 022,Boston,Notebook Pack,Office Supplies,Corporate,65.55,1.45,7
+ORD-01161,2020-08-15,C034,Customer 034,Denver,Desk Organizer,Office Supplies,Consumer,26.89,4.29,1
+ORD-01162,2020-08-29,C015,Customer 015,New York,Wireless Mouse,Technology,Consumer,76.74,5.04,3
+ORD-01163,2020-06-09,C026,Customer 026,Boston,Desk Organizer,Office Supplies,Consumer,69.21,16.22,2
+ORD-01164,2020-06-18,C074,Customer 074,Chicago,Printer Paper,Office Supplies,Home Office,147.39,7.97,7
+ORD-01165,2020-12-02,C040,Customer 040,Boston,HDMI Cable 2.0,Technology,Corporate,90.18,15.5,6
+ORD-01166,2020-05-19,C023,Customer 023,Atlanta,Bluetooth Speaker,Technology,Consumer,289.88,64.62,3
+ORD-01167,2020-01-01,C040,Customer 040,Seattle,Wireless Mouse,Technology,Consumer,52.26,-0.08,2
+ORD-01168,2020-04-23,C054,Customer 054,San Francisco,Notebook Pack,Office Supplies,Consumer,36.11,5.29,3
+ORD-01169,2020-12-12,C056,Customer 056,Dallas,Bluetooth Speaker,Technology,Consumer,503.25,128.11,6
+ORD-01170,2020-05-25,C065,Customer 065,New York,Notebook Pack,Office Supplies,Corporate,51.04,10.69,5
+ORD-01171,2020-09-11,C063,Customer 063,San Francisco,Wireless Mouse,Technology,Corporate,81.52,16.64,4
+ORD-01172,2020-09-03,C071,Customer 071,Dallas,Wireless Mouse,Technology,Consumer,210.87,17.55,7
+ORD-01173,2020-06-20,C043,Customer 043,Miami,Bookcase,Furniture,Consumer,608.13,157.25,5
+ORD-01174,2020-12-17,C081,Customer 081,Dallas,Desk Organizer,Office Supplies,Consumer,244.53,40.49,8
+ORD-01175,2020-09-17,C072,Customer 072,Miami,Stapler,Office Supplies,Consumer,64.22,13.0,5
+ORD-01176,2020-07-20,C034,Customer 034,New York,Printer Paper,Office Supplies,Corporate,67.68,14.39,3
+ORD-01177,2020-11-29,C011,Customer 011,Atlanta,Folding Table,Furniture,Consumer,244.39,38.66,3
+ORD-01178,2020-05-24,C033,Customer 033,Denver,HDMI Cable 2.0,Technology,Consumer,50.69,5.57,3
+ORD-01179,2020-11-27,C017,Customer 017,Phoenix,Lounge Sofa,Furniture,Corporate,676.87,144.16,2
+ORD-01180,2020-02-21,C043,Customer 043,Atlanta,Stapler,Office Supplies,Consumer,74.14,8.75,5
+ORD-01181,2020-07-12,C065,Customer 065,Denver,Stapler,Office Supplies,Home Office,63.25,11.62,4
+ORD-01182,2020-11-19,C064,Customer 064,Chicago,Bookcase,Furniture,Corporate,404.3,78.04,4
+ORD-01183,2020-06-22,C064,Customer 064,San Francisco,Ergonomic Chair,Furniture,Consumer,478.94,77.55,3
+ORD-01184,2020-10-20,C002,Customer 002,New York,USB Gaming Keyboard,Technology,Consumer,225.41,40.6,3
+ORD-01185,2020-11-19,C016,Customer 016,Denver,USB Gaming Keyboard,Technology,Consumer,524.22,119.47,6
+ORD-01186,2020-01-31,C018,Customer 018,Houston,Desk Organizer,Office Supplies,Home Office,187.26,23.66,6
+ORD-01187,2020-08-01,C047,Customer 047,San Francisco,Office Desk,Furniture,Corporate,188.22,26.02,1
+ORD-01188,2020-06-23,C023,Customer 023,Phoenix,Lounge Sofa,Furniture,Corporate,821.43,67.08,2
+ORD-01189,2020-10-14,C024,Customer 024,Chicago,Gel Pen Set,Office Supplies,Corporate,47.51,4.33,6
+ORD-01190,2020-02-13,C071,Customer 071,Chicago,HDMI Cable 2.0,Technology,Consumer,106.44,10.36,7
+ORD-01191,2020-07-21,C009,Customer 009,Dallas,Office Desk,Furniture,Corporate,1363.58,181.61,7
+ORD-01192,2020-11-10,C016,Customer 016,Phoenix,Wireless Mouse,Technology,Consumer,167.86,23.15,6
+ORD-01193,2020-07-31,C015,Customer 015,Boston,Stapler,Office Supplies,Consumer,12.35,1.11,1
+ORD-01194,2020-10-09,C032,Customer 032,Seattle,Power Bank Shell 5V,Technology,Corporate,130.9,10.4,2
+ORD-01195,2020-11-23,C049,Customer 049,Boston,Ergonomic Chair,Furniture,Corporate,569.64,32.83,5
+ORD-01196,2020-11-18,C017,Customer 017,Miami,Bluetooth Speaker,Technology,Corporate,86.04,19.8,1
+ORD-01197,2020-02-28,C070,Customer 070,New York,Power Bank Shell 5V,Technology,Corporate,228.33,37.33,3
+ORD-01198,2020-12-08,C065,Customer 065,San Francisco,USB Gaming Keyboard,Technology,Consumer,573.88,118.9,7
+ORD-01199,2020-09-17,C025,Customer 025,San Francisco,Lounge Sofa,Furniture,Consumer,2118.82,211.93,7
+ORD-01200,2020-06-16,C086,Customer 086,Chicago,Lounge Sofa,Furniture,Home Office,846.27,128.56,2
